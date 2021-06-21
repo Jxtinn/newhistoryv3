@@ -5,3 +5,4 @@
 - Bankraub hinzugefügt
 - Downtown Cab & Co. Kleidung angepasst
 - Department of Justice Kleidung hinzugefügt
+- Los Santos Medical Department Kleidung hinzugefügt
