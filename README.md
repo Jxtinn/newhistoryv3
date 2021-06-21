@@ -4,3 +4,4 @@
 
 - Bankraub hinzugefügt
 - Downtown Cab & Co. Kleidung angepasst
+- Department of Justice Kleidung hinzugefügt
