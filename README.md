@@ -1,5 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
+**22.06.2021**
+
+- Bankraub überarbeitet
+- Hacking-Game hinzugefügt
+- Lockpick-Game hinzugefügt
+
+
 **21.06.2021**
 
 - Bankraub hinzugefügt
