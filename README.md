@@ -2,7 +2,7 @@
 
 **23.06.2021**
 - Kleine Bugfixes am Bankraub
-
+- CopNet hinzugefügt
 
 
 **22.06.2021**
