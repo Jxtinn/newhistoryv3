@@ -3,6 +3,7 @@
 **23.06.2021**
 - Kleine Bugfixes am Bankraub
 - CopNet hinzugefügt
+- Item-Icons hinzugefügt (Reflex)
 
 
 **22.06.2021**
