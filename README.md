@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**23.06.2021**
+- Kleine Bugfixes am Bankraub
+
+
 **22.06.2021**
 
 - Bankraub überarbeitet
