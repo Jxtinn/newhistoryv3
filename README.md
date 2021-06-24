@@ -1,5 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
+**24.06.2021**
+
+- Eisenroute gefixt
+- Holzroute gefixt
+- Übersetzung im Perso-Menü angepasst 
+
+
 **23.06.2021**
 - Kleine Bugfixes am Bankraub
 - CopNet hinzugefügt
