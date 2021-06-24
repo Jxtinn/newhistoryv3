@@ -5,7 +5,8 @@
 - Eisenroute gefixt
 - Holzroute gefixt
 - Übersetzung im Perso-Menü angepasst 
-
+- Gangwar-Gebiet bei Grove & Triaden hinzugefügt
+- Warteschlangensystem bei Joinen hinzugefügt
 
 **23.06.2021**
 - Kleine Bugfixes am Bankraub
