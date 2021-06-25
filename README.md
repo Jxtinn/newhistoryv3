@@ -16,6 +16,7 @@
 - Impound Preise angepasst
 - Apartment-Punkte gefixt
 - Rasen-Script entfernt (Major Bugs)
+- Neueste Handy-Version hinzugefügt (Bugfixes)
 
 
 **24.06.2021**
