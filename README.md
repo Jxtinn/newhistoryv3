@@ -15,6 +15,7 @@
 - Duty-System Marker gefixt
 - Impound Preise angepasst
 - Apartment-Punkte gefixt
+- Rasen-Script entfernt (Major Bugs)
 
 
 **24.06.2021**
