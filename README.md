@@ -13,6 +13,7 @@
 - Rucksackgewichte angepasst
 - Wetterzyklus angepasst
 - Duty-System Marker gefixt
+- Impound Preise angepasst
 
 **24.06.2021**
 
