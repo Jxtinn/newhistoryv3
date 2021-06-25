@@ -18,7 +18,7 @@
 - Rasen-Script entfernt (Major Bugs)
 - Neueste Handy-Version hinzugefügt (Bugfixes)
 - FFA Fehlbans gefixt
-
+- Abschlepp-Script hinzugefügt
 
 
 **24.06.2021**
