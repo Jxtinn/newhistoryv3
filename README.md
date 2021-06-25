@@ -10,6 +10,7 @@
 - Medic Apotheke verlegt
 - Medic Revive-Problem gefixt
 - Gangwar enfernt(Verursacht client-lags)
+- Rucksackgewichte angepasst
 
 **24.06.2021**
 
