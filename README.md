@@ -8,6 +8,7 @@
 - Rucksack-Shop gefixt
 - Medic Duty gefixt
 - Medic Apotheke verlegt
+- Medic Revive-Problem gefixt
 
 **24.06.2021**
 
