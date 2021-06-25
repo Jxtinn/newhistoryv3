@@ -23,6 +23,7 @@
 - Audi SQ7 entfernt
 - Brad Debertis Transformer hinzugefügt
 - GT63S ersetzt
+- Diverse Logs hinzugefügt/angepasst
 
 **24.06.2021**
 
