@@ -1,5 +1,11 @@
 # NewHistoryV2 (Dev-Log)
 
+**25.06.2021**
+
+- Gewicht von Holzkiste & verpackte Holzkiste angepasst
+- Gewicht von verpackte Eisenkiste angepasst
+
+
 **24.06.2021**
 
 - Eisenroute gefixt
@@ -7,6 +13,7 @@
 - Übersetzung im Perso-Menü angepasst 
 - Gangwar-Gebiet bei Grove & Triaden hinzugefügt
 - Warteschlangensystem bei Joinen hinzugefügt
+
 
 **23.06.2021**
 - Kleine Bugfixes am Bankraub
