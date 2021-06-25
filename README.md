@@ -14,6 +14,7 @@
 - Wetterzyklus angepasst
 - Duty-System Marker gefixt
 - Impound Preise angepasst
+- FFA Fehlbans gefixt
 
 **24.06.2021**
 
