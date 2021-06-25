@@ -24,6 +24,8 @@
 - Brad Debertis Transformer hinzugefügt
 - GT63S ersetzt
 - Diverse Logs hinzugefügt/angepasst
+- Motor -und Karosserie Schaden angepasst
+
 
 **24.06.2021**
 
