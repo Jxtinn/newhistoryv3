@@ -9,12 +9,16 @@
 - Medic Duty gefixt
 - Medic Apotheke verlegt
 - Medic Revive-Problem gefixt
-- Gangwar enfernt(Verursacht client-lags)
+- Gangwar enfernt (Verursacht client-lags)
 - Rucksackgewichte angepasst
 - Wetterzyklus angepasst
 - Duty-System Marker gefixt
 - Impound Preise angepasst
+- Apartment-Punkte gefixt
+- Rasen-Script entfernt (Major Bugs)
+- Neueste Handy-Version hinzugefügt (Bugfixes)
 - FFA Fehlbans gefixt
+
 
 **24.06.2021**
 
