@@ -1,10 +1,11 @@
 # NewHistoryV2 (Dev-Log)
 
+
 **25.06.2021**
 
 - Gewicht von Holzkiste & verpackte Holzkiste angepasst
 - Gewicht von verpackte Eisenkiste angepasst
-
+- Rucksack-Shop gefixt
 
 **24.06.2021**
 
