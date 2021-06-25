@@ -9,6 +9,7 @@
 - Medic Duty gefixt
 - Medic Apotheke verlegt
 - Medic Revive-Problem gefixt
+- Gangwar enfernt(Verursacht client-lags)
 
 **24.06.2021**
 
