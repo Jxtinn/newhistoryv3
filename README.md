@@ -11,6 +11,7 @@
 - Medic Revive-Problem gefixt
 - Gangwar enfernt(Verursacht client-lags)
 - Rucksackgewichte angepasst
+- Wetterzyklus angepasst
 
 **24.06.2021**
 
