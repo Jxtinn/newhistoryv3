@@ -12,6 +12,7 @@
 - Gangwar enfernt(Verursacht client-lags)
 - Rucksackgewichte angepasst
 - Wetterzyklus angepasst
+- Duty-System Marker gefixt
 
 **24.06.2021**
 
