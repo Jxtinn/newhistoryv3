@@ -19,7 +19,10 @@
 - Neueste Handy-Version hinzugefügt (Bugfixes)
 - FFA Fehlbans gefixt
 - Abschlepp-Script hinzugefügt
-
+- G63 AMG 6x6 Brabus 700 nun tunable & 6 Sitze
+- Audi SQ7 entfernt
+- Brad Debertis Transformer hinzugefügt
+- GT63S ersetzt
 
 **24.06.2021**
 
