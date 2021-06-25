@@ -6,6 +6,8 @@
 - Gewicht von Holzkiste & verpackte Holzkiste angepasst
 - Gewicht von verpackte Eisenkiste angepasst
 - Rucksack-Shop gefixt
+- Medic Duty gefixt
+- Medic Apotheke verlegt
 
 **24.06.2021**
 
