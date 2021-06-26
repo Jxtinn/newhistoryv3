@@ -6,6 +6,7 @@
 - Banking Design angepasst
 - Shop-Robberys angepasst
 - Holzroute angepasst
+- Waffenroute nur für Waffendealer nutzbar
 
 
 **25.06.2021**
