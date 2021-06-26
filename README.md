@@ -4,6 +4,7 @@
 **26.06.2021**
 
 - Banking Design angepasst
+- Shop-Robberys angepasst
 
 
 **25.06.2021**
