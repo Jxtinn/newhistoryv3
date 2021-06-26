@@ -8,6 +8,7 @@
 - Holzroute angepasst
 - Waffenroute nur für Waffendealer nutzbar
 - Kokainfarm angepasst
+- Kanister Fix (Bleiben nun nach Restart)
 
 
 **25.06.2021**
