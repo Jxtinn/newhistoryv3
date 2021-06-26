@@ -1,6 +1,11 @@
 # NewHistoryV2 (Dev-Log)
 
 
+**26.06.2021**
+
+- Banking Design angepasst
+
+
 **25.06.2021**
 
 - Gewicht von Holzkiste & verpackte Holzkiste angepasst
