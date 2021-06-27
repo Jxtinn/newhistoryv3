@@ -9,6 +9,7 @@
 - Fahrzeugshop Preise angepasst
 - Preis für Holzkisten angepasst
 - Geldwäsche angepasst
+- Methküchen Verkäufer gefixt
 
 
 **26.06.2021**
