@@ -4,7 +4,8 @@
 **27.06.2021**
 
 - Erneuter Kanister Fix
-- Fixkits angepasst (Reparatur hält länger) 
+- Fixkits angepasst (Reparatur hält länger)
+- Fahrzeugschaden angepasst (halten mehr aus)
 
 
 **26.06.2021**
