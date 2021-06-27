@@ -6,6 +6,7 @@
 - Erneuter Kanister Fix
 - Fixkits angepasst (Reparatur hält länger)
 - Fahrzeugschaden angepasst (halten mehr aus)
+- Fahrzeugshop Preise angepasst
 
 
 **26.06.2021**
