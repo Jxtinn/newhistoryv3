@@ -8,6 +8,7 @@
 - Fahrzeugschaden angepasst (halten mehr aus)
 - Fahrzeugshop Preise angepasst
 - Preis für Holzkisten angepasst
+- Geldwäsche angepasst
 
 
 **26.06.2021**
