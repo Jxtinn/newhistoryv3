@@ -9,6 +9,7 @@
 - Waffenroute nur für Waffendealer nutzbar
 - Kokainfarm angepasst
 - Kanister Fix (Bleiben nun nach Restart)
+- Erneuter Kanister Fix
 
 
 **25.06.2021**
