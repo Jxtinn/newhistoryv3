@@ -1,6 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
 
+**27.06.2021**
+
+- Erneuter Kanister Fix
+- Fixkits angepasst (Reparatur hält länger) 
+
+
 **26.06.2021**
 
 - Banking Design angepasst
@@ -9,7 +15,6 @@
 - Waffenroute nur für Waffendealer nutzbar
 - Kokainfarm angepasst
 - Kanister Fix (Bleiben nun nach Restart)
-- Erneuter Kanister Fix
 
 
 **25.06.2021**
