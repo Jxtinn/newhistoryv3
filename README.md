@@ -1,6 +1,10 @@
 # NewHistoryV2 (Dev-Log)
 
 
+**28.06.2021**
+- Tuning-Preise angepasst
+
+
 **27.06.2021**
 
 - Erneuter Kanister Fix
