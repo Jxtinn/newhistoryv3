@@ -5,6 +5,7 @@
 - Tuning-Preise angepasst
 - Waffenbug beim leaven von FFA gefixt
 - Mechanikern die Rechte zum Auto aufbrechen entfernt
+- Koksfarm angepasst
 
 
 **27.06.2021**
