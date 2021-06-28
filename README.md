@@ -3,6 +3,7 @@
 
 **28.06.2021**
 - Tuning-Preise angepasst
+- Waffenbug beim leaven von FFA gefixt
 
 
 **27.06.2021**
