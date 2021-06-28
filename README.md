@@ -7,6 +7,7 @@
 - Mechanikern die Rechte zum Auto aufbrechen entfernt
 - Koksfarm angepasst
 - Geldwäsche gefixt
+- Apartment-Inventar gefixt
 
 
 **27.06.2021**
