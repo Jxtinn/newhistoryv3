@@ -8,6 +8,7 @@
 - Koksfarm angepasst
 - Geldwäsche gefixt
 - Apartment-Inventar gefixt
+- Labore gefixt
 
 
 **27.06.2021**
