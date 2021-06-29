@@ -9,6 +9,7 @@
 - Labore gefixt
 - Apartment-Inventar gefixt (erneut)
 - FFA Waffen-Bugs gefixt (erneut)
+- FIB F1 Autobanns gefixt
 
 
 **27.06.2021**
