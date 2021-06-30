@@ -6,6 +6,8 @@
 - Waffenroute vergeben
 - Munitionsroute vergeben
 - Westenroute vergeben 
+## -- Nachträgliche Anpassungen -- ##
+- Westenroute angepasst
 
 
 **28.06.2021**
