@@ -11,12 +11,13 @@
 **28.06.2021**
 
 - Tuning-Preise angepasst
-- Waffenbug beim leaven von FFA gefixt
 - Mechanikern die Rechte zum Auto aufbrechen entfernt
 - Koksfarm angepasst
 - Geldwäsche gefixt
-- Apartment-Inventar gefixt
 - Labore gefixt
+- Apartment-Inventar gefixt (erneut)
+- FFA Waffen-Bugs gefixt (erneut)
+- FIB F1 Autobanns gefixt
 
 
 **27.06.2021**
