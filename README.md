@@ -1,7 +1,15 @@
 # NewHistoryV2 (Dev-Log)
 
 
+**30.06.2021**
+
+- Waffenroute vergeben
+- Munitionsroute vergeben
+- Westenroute vergeben 
+
+
 **28.06.2021**
+
 - Tuning-Preise angepasst
 - Waffenbug beim leaven von FFA gefixt
 - Mechanikern die Rechte zum Auto aufbrechen entfernt
