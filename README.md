@@ -9,7 +9,7 @@
 ## -- Nachträgliche Anpassungen -- ##
 - Westenroute angepasst
 - Waffenroute angepasst
-- Munitionsroute angepasst
+
 
 **28.06.2021**
 
