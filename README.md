@@ -9,7 +9,8 @@
 ## -- Nachträgliche Anpassungen -- ##
 - Westenroute angepasst
 - Waffenroute angepasst
-
+- Munitionsroute angepasst
+- Labore angepasst
 
 **28.06.2021**
 
