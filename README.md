@@ -1,6 +1,11 @@
 # NewHistoryV2 (Dev-Log)
 
 
+**01.07.2021**
+
+- Serverbanner hinzugefügt
+
+
 **30.06.2021**
 
 - Waffenroute vergeben
@@ -11,6 +16,7 @@
 - Waffenroute angepasst
 - Munitionsroute angepasst
 - Labore angepasst
+
 
 **28.06.2021**
 
