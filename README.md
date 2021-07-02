@@ -1,6 +1,11 @@
 # NewHistoryV2 (Dev-Log)
 
 
+**02.07.2021**
+
+- 22:00 Uhr Restart entfernt (Testweise)
+
+
 **01.07.2021**
 
 - Serverbanner hinzugefügt
