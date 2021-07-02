@@ -3,6 +3,7 @@
 **02.07.2021**
 - Labor Bugfixes (Experimentell)
 - Apartment Bugfixes (Experimentell)
+- FIB-Job Bugfixes (Experimentell)
 
 
 **01.07.2021**
