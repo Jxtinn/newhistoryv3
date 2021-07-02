@@ -4,12 +4,7 @@
 - Labor Bugfixes (Experimentell)
 - Apartment Bugfixes (Experimentell)
 - FIB-Job Bugfixes (Experimentell)
-
-
-**02.07.2021**
-
 - 22:00 Uhr Restart entfernt (Testweise)
-
 
 **01.07.2021**
 
@@ -23,6 +18,7 @@
 - Westenroute vergeben 
 
 -- Nachträgliche Anpassungen --
+
 - Westenroute angepasst
 - Waffenroute angepasst
 - Munitionsroute angepasst
