@@ -1,5 +1,8 @@
 # NewHistoryV2 (Dev-Log)
 
+**02.07.2021**
+- Labor Bugfixes (Experimentell)
+
 
 **01.07.2021**
 
@@ -11,7 +14,8 @@
 - Waffenroute vergeben
 - Munitionsroute vergeben
 - Westenroute vergeben 
-## -- Nachträgliche Anpassungen -- ##
+
+-- Nachträgliche Anpassungen --
 - Westenroute angepasst
 - Waffenroute angepasst
 - Munitionsroute angepasst
