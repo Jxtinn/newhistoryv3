@@ -6,7 +6,7 @@
 - Westendealker Spots verändert
 - Duping-Fix für alle Dealer
 - Autoban-Fix für alle Dealer
-- Gewichte für Waffenteile angepasst
+- Waffenteile Gewicht angepasst (Experimentell)
 
 
 **02.07.2021**
