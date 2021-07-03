@@ -5,6 +5,7 @@
 - Waffendealer Spots verändert
 - Westendealker Spots verändert
 - Duping-Fix für alle Dealer
+- Autoban-Fix für alle Dealer
 
 
 **02.07.2021**
