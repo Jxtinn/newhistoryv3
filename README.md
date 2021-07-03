@@ -2,6 +2,7 @@
 
 **03.07.2021**
 - Munitionsdealer Spots verändert
+- Waffendealer Spots verändert
 
 
 **02.07.2021**
