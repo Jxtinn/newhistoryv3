@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**03.07.2021**
+- Munitionsdealer Spots verändert
+
+
 **02.07.2021**
 - Labor Bugfixes (Experimentell)
 - Apartment Bugfixes (Experimentell)
