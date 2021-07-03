@@ -4,6 +4,7 @@
 - Munitionsdealer Spots verändert
 - Waffendealer Spots verändert
 - Westendealker Spots verändert
+- Duping-Fix für alle Dealer
 
 
 **02.07.2021**
