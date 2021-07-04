@@ -3,6 +3,7 @@
 **04.07.2021**
 - Duping-Fix bei Badfrak-Jobs
 - Ammunation Preise angepasst
+- Doorlock Animation entfernt
 
 
 **03.07.2021**
