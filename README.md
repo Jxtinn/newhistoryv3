@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**04.07.2021**
+- Duping-Fix bei Badfrak-Jobs
+
+
 **03.07.2021**
 - Munitionsdealer Spots verändert
 - Waffendealer Spots verändert
