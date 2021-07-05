@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**05.07.2021**
+- FIB Kleidung angepasst
+
+
 **04.07.2021**
 - Duping-Fix bei Badfrak-Jobs
 - Ammunation Preise angepasst
