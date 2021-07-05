@@ -3,11 +3,13 @@
 **05.07.2021**
 - Westenroute angepasst
 - Backpacks angepasst
+- FIB Kleidung angepasst
 
 
 **04.07.2021**
 - Duping-Fix bei Badfrak-Jobs
 - Ammunation Preise angepasst
+- Doorlock Animation entfernt
 
 
 **03.07.2021**
