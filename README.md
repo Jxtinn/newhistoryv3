@@ -3,6 +3,7 @@
 **06.07.2021**
 - Duping-Bugs gefixt (Experimentell)
 - FFA-Waffenbug gefixt (Experimentell)
+- Farmrouten AAC-Banns nun gefixt/endgültig 
 
 
 **05.07.2021**
