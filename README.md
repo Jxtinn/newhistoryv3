@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**06.07.2021**
+- Duping-Bugs gefixt (Experimentell)
+
+
 **05.07.2021**
 - Westenroute angepasst
 - Backpacks angepasst
