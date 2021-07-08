@@ -3,6 +3,7 @@
 **08.07.2021**
 - FIB-Westen hinzugefügt
 - Hände heben auf Taste G hinzugefügt
+- ALPR/Radar-System für SWAT hinzugefügt
 
 
 **06.07.2021**
