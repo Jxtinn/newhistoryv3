@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**08.07.2021**
+- FIB-Westen hinzugefügt
+
+
 **06.07.2021**
 - Duping-Bugs gefixt (Experimentell)
 - FFA-Waffenbug gefixt (Experimentell)
