@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**10.07.2021**
+- rmodm4gts Modded Sound hinzugefügt
+
+
 **09.07.2021**
 - Bugfix fürs Hände heben/senken
 
