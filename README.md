@@ -2,6 +2,7 @@
 
 **11.07.2021**
 - Repairkits & Tyrekits nun nutzbar wenn unter 3 Mechaniker online sind
+- Geldwäsche gefixt
 
 
 **10.07.2021**
