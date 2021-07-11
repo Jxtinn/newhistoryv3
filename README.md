@@ -4,6 +4,7 @@
 - Repairkits & Tyrekits nun nutzbar wenn unter 3 Mechaniker online sind
 - Geldwäsche gefixt
 - Neue Handy-Version hinzugefügt
+- Kleinere Bugfixes bei illegalen Routen
 
 
 **10.07.2021**
