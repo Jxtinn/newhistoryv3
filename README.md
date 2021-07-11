@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**11.07.2021**
+- Repairkits & Tyrekits nun nutzbar wenn unter 3 Mechaniker online sind
+
+
 **10.07.2021**
 - rmodm4gts Modded Sound hinzugefügt
 - Car-Bugs gefixt (Reflex)
