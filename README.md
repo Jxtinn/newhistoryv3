@@ -3,6 +3,7 @@
 **14.07.2021**
 - Schwarzgeldwäsche gefixt (Final)
 - Schwarzgeldwäsche gehört nun SCU und LCN
+- Schwarzgeldwäsche Eingang verlegt
 
 
 **13.07.2021**
