@@ -7,6 +7,7 @@
 - Schwarzmarkt hinzugefügt
 - Items für Bankraub im Schwarzmarkt hinzugefügt
 - Bloodtrail-System für FIB hinzugefügt (Experimentell)
+- Kleinere allgemeine Bugfixes
 
 
 **13.07.2021**
