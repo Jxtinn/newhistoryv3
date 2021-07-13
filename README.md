@@ -6,6 +6,7 @@
 - Schwarzgeldwäsche Eingang verlegt
 - Schwarzmarkt hinzugefügt
 - Items für Bankraub im Schwarzmarkt hinzugefügt
+- Bloodtrail-System für FIB hinzugefügt (Experimentell)
 
 
 **13.07.2021**
