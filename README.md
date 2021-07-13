@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**14.07.2021**
+- Schwarzgeldwäsche gefixt (Final)
+
+
 **13.07.2021**
 - Reznov in Munitionsroute eingebunden
 - Geldwäsche aufgrund von Bugs entfernt (mal wieder)
