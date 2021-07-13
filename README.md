@@ -5,6 +5,7 @@
 - Schwarzgeldwäsche gehört nun SCU und LCN
 - Schwarzgeldwäsche Eingang verlegt
 - Schwarzmarkt hinzugefügt
+- Items für Bankraub im Schwarzmarkt hinzugefügt
 
 
 **13.07.2021**
