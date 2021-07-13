@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**13.07.2021**
+- Reznov in Munitionsroute eingebunden
+
+
 **11.07.2021**
 - Repairkits & Tyrekits nun nutzbar wenn unter 3 Mechaniker online sind
 - Geldwäsche gefixt
