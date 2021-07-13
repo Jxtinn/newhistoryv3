@@ -4,6 +4,7 @@
 - Schwarzgeldwäsche gefixt (Final)
 - Schwarzgeldwäsche gehört nun SCU und LCN
 - Schwarzgeldwäsche Eingang verlegt
+- Schwarzmarkt hinzugefügt
 
 
 **13.07.2021**
