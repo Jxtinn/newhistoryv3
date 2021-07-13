@@ -2,6 +2,7 @@
 
 **13.07.2021**
 - Reznov in Munitionsroute eingebunden
+- Geldwäsche aufgrund von Bugs entfernt (mal wieder)
 
 
 **11.07.2021**
