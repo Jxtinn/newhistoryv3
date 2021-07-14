@@ -10,6 +10,7 @@
 - Kleinere allgemeine Bugfixes
 - Autos werden nach Restart nichtmehr eingeparkt
 - Impound-Preise gleich geblieben (5.000$)
+- Neuer Loadingscreen
 
 
 **13.07.2021**
