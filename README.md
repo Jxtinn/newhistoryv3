@@ -8,6 +8,7 @@
 - Items für Bankraub im Schwarzmarkt hinzugefügt
 - Bloodtrail-System für FIB hinzugefügt (Experimentell)
 - Kleinere allgemeine Bugfixes
+- Autos werden nach Restart nichtmehr eingeparkt
 
 
 **13.07.2021**
