@@ -9,6 +9,7 @@
 - Bloodtrail-System für FIB hinzugefügt (Experimentell)
 - Kleinere allgemeine Bugfixes
 - Autos werden nach Restart nichtmehr eingeparkt
+- Impound-Preise leicht erhöht
 
 
 **13.07.2021**
