@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**15.07.2021**
+- Fahrzeuge werden nach Restarts wieder eingeparkt
+
+
 **14.07.2021**
 - Schwarzgeldwäsche gefixt (Final)
 - Schwarzgeldwäsche gehört nun SCU und LCN
