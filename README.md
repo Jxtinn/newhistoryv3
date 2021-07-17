@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**18.07.2021**
+- Funk wird beim fesseln nun verlassen
+
+
 **15.07.2021**
 - Fahrzeuge werden nach Restarts wieder eingeparkt
 
