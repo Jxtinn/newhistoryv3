@@ -3,6 +3,7 @@
 **18.07.2021**
 - Funk wird beim fesseln nun verlassen
 - Restart um 02:00 Uhr wieder hinzugefügt
+- Funk wird beim abnehmen/geben vom Handy verlassen
 
 
 **15.07.2021**
