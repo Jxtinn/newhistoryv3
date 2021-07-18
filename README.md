@@ -8,7 +8,7 @@
 - Kawasaki Ninja 250 FI in den Shop eingefügt
 - Autowäsche hinzugefügt
 - Automatisches Car-Wipe System hinzugefügt (Alle 30 Minuten)
-- Car-Wipe Radius angepasst (30 Meter)
+- Car-Wipe Radius erhöht (30 Meter)
 
 
 
