@@ -5,6 +5,7 @@
 - Restart um 02:00 Uhr wieder hinzugefügt
 - Funk wird beim abnehmen/geben vom Handy verlassen
 - Import Car Austausch nun per Tebex möglich (Extras)
+- Kawasaki Ninja ZX-10R in den Shop eingefügt
 
 
 **15.07.2021**
