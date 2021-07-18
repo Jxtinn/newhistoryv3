@@ -7,8 +7,7 @@
 - Import Car Austausch nun per Tebex möglich (Extras)
 - Kawasaki Ninja 250 FI in den Shop eingefügt
 - Autowäsche hinzugefügt
-- Carwipes hinzugefügt
-- Carwipe-Radius angepasst
+- Automatisches Car-Wipe System hinzugefügt (Alle 30 Minuten)
 
 
 **15.07.2021**
