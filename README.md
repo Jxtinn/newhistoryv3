@@ -6,6 +6,7 @@
 - Funk wird beim abnehmen/geben vom Handy verlassen
 - Import Car Austausch nun per Tebex möglich (Extras)
 - Kawasaki Ninja 250 FI in den Shop eingefügt
+- Autowäsche hinzugefügt
 
 
 **15.07.2021**
