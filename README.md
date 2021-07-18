@@ -4,6 +4,7 @@
 - Funk wird beim fesseln nun verlassen
 - Restart um 02:00 Uhr wieder hinzugefügt
 - Funk wird beim abnehmen/geben vom Handy verlassen
+- Import Car Austausch nun per Tebex möglich (Extras)
 
 
 **15.07.2021**
