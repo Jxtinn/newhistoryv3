@@ -2,7 +2,8 @@
 
 **19.07.2021**
 - Ladenräube angepasst
-
+- Mechaniker Lohn angepasst 
+- Medics Lohn angepasst 
 
 
 **18.07.2021**
