@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**19.07.2021**
+- Ladenräube angepasst
+
+
 **18.07.2021**
 - Funk wird beim fesseln nun verlassen
 - Restart um 02:00 Uhr wieder hinzugefügt
@@ -8,7 +12,6 @@
 - Kawasaki Ninja 250 FI in den Shop eingefügt
 - Autowäsche hinzugefügt
 - Automatisches Car-Wipe System hinzugefügt (Alle 30 Minuten)
-
 
 
 **15.07.2021**
