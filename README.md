@@ -6,6 +6,7 @@
 - Medics Lohn angepasst 
 
 
+
 **18.07.2021**
 - Funk wird beim fesseln nun verlassen
 - Restart um 02:00 Uhr wieder hinzugefügt
