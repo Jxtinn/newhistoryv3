@@ -4,7 +4,7 @@
 - Ladenräube angepasst
 - Mechaniker Lohn angepasst 
 - Medics Lohn angepasst 
-
+- Ndrangheta Fraktions-App angepasst
 
 
 **18.07.2021**
