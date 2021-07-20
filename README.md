@@ -6,6 +6,7 @@
 - Bewusstlos-Notruf gefixt
 - Tank -und Kanister Preise angepasst
 - Impound Preise angepasst
+- Einpark Preise angepasst (Garage)
 
 
 **19.07.2021**
