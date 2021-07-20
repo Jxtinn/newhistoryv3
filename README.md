@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.07.2021**
+- Lohn von Staatsfraks angepasst
+
+
 **19.07.2021**
 - Ladenräube angepasst
 - Mechaniker Lohn angepasst 
