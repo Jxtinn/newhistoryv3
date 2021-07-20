@@ -3,6 +3,7 @@
 **20.07.2021**
 - Lohn von Staatsfraks angepasst
 - Respawn-Preis angepasst
+- Bewusstlos-Notruf gefixt
 
 
 **19.07.2021**
