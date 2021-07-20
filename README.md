@@ -8,6 +8,7 @@
 - Impound Preise angepasst
 - Einpark Preise angepasst (Garage)
 - Schwarzgeldwäsche angepasst
+- Autowäsche Preise angepasst
 
 
 **19.07.2021**
