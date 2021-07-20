@@ -11,6 +11,7 @@
 - Autowäsche Preise angepasst
 - Car-Wipe Zeitraum erhöht (nun stündlich)
 - FIB Autos angepasst (Reflex)
+- Westenroute an Vagos vergeben
 
 
 **19.07.2021**
