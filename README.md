@@ -7,6 +7,7 @@
 - Tank -und Kanister Preise angepasst
 - Impound Preise angepasst
 - Einpark Preise angepasst (Garage)
+- Schwarzgeldwäsche angepasst
 
 
 **19.07.2021**
