@@ -9,6 +9,7 @@
 - Einpark Preise angepasst (Garage)
 - Schwarzgeldwäsche angepasst
 - Autowäsche Preise angepasst
+- Car-Wipe Zeitraum erhöht (nun stündlich)
 
 
 **19.07.2021**
