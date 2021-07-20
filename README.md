@@ -10,6 +10,7 @@
 - Schwarzgeldwäsche angepasst
 - Autowäsche Preise angepasst
 - Car-Wipe Zeitraum erhöht (nun stündlich)
+- FIB Autos angepasst (Reflex)
 
 
 **19.07.2021**
