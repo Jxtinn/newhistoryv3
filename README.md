@@ -2,6 +2,7 @@
 
 **20.07.2021**
 - Lohn von Staatsfraks angepasst
+- Respawn-Preis angepasst
 
 
 **19.07.2021**
