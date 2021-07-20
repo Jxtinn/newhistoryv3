@@ -4,6 +4,7 @@
 - Lohn von Staatsfraks angepasst
 - Respawn-Preis angepasst
 - Bewusstlos-Notruf gefixt
+- Tank -und Kanister Preise angepasst
 
 
 **19.07.2021**
