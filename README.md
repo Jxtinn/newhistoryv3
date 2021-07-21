@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**21.07.2021**
+- Kokainblatt Gewicht angepasst
+
+
 **20.07.2021**
 - Lohn von Staatsfraks angepasst
 - Respawn-Preis angepasst
