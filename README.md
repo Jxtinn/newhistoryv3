@@ -2,6 +2,7 @@
 
 **21.07.2021**
 - Kokainblatt Gewicht angepasst
+- Pistolen Munition in Ammunation hinzugefügt
 
 
 **20.07.2021**
