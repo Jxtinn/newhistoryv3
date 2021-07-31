@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**31.07.2021**
+- Juwelierraub angepasst
+
+
 **21.07.2021**
 - Kokainblatt Gewicht angepasst
 - Pistolen Munition in Ammunation hinzugefügt
