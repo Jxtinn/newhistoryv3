@@ -2,6 +2,7 @@
 
 **01.08.2021**
 - SG Garage hinzugefügt
+- Visumsystem hinzugefügt (/visum)
 
 
 **31.07.2021**
