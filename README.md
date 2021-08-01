@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**01.08.2021**
+- SG Garage hinzugefügt
+
+
 **31.07.2021**
 - Juwelierraub angepasst
 - Restarts: 03:00, 10:00, 15:00, 18:00
