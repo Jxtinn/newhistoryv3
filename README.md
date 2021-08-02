@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**02.08.2021**
+- LSMD Ränge angepasst
+
+
 **01.08.2021**
 - SG Garage hinzugefügt
 - Visumsystem hinzugefügt (/visum)
