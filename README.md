@@ -2,6 +2,7 @@
 
 **02.08.2021**
 - LSMD Ränge angepasst
+- Schwarzmarkt gefixt
 
 
 **01.08.2021**
