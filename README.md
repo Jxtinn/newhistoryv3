@@ -4,6 +4,7 @@
 - LSMD Ränge angepasst
 - Schwarzmarkt gefixt
 - Brigada Carshop gefixt
+- /closef1 Command hinzugefügt
 
 
 **01.08.2021**
