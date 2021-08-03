@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**03.08.2021**
+- Tuners Edition Fahrzeuge hinzugefügt
+
+
 **02.08.2021**
 - LSMD Ränge angepasst
 - Schwarzmarkt gefixt
