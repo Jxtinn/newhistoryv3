@@ -4,6 +4,7 @@
 - Tuners Edition Fahrzeuge hinzugefügt
 - Softcuffs hinzugefügt (LSPD)
 - Animation beim ent-/fesseln hinzugefügt (LSPD)
+- Animation beim durchsuchen hinzugefügt (LSPD)
 
 
 **02.08.2021**
