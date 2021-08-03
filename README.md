@@ -6,6 +6,7 @@
 - Animation beim ent-/fesseln hinzugefügt (LSPD)
 - Animation beim durchsuchen hinzugefügt (LSPD)
 - Motor mit M starten/stoppen (nächster Restart)
+- Schwarzmarkt verlegt
 
 
 **02.08.2021**
