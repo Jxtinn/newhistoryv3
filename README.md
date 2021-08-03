@@ -5,6 +5,7 @@
 - Schwarzmarkt gefixt
 - Brigada Carshop gefixt
 - /closef1 Command hinzugefügt
+- Loadingscreen angepasst
 
 
 **01.08.2021**
