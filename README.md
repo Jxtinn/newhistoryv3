@@ -5,6 +5,7 @@
 - Softcuffs hinzugefügt (LSPD)
 - Animation beim ent-/fesseln hinzugefügt (LSPD)
 - Animation beim durchsuchen hinzugefügt (LSPD)
+- Motor mit M starten/stoppen (Nach nächstem Restart)
 
 
 **02.08.2021**
