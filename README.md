@@ -6,6 +6,7 @@
 - Brigada Carshop gefixt
 - /closef1 Command hinzugefügt
 - Loadingscreen angepasst
+- Update auf b2372 (Tuners-Update)
 
 
 **01.08.2021**
