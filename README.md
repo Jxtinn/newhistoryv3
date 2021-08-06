@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**06.08.2021**
+- /hood & /trunk hinzugefügt
+
+
 **03.08.2021**
 - Tuners Edition Fahrzeuge hinzugefügt
 - Softcuffs hinzugefügt (LSPD)
