@@ -2,6 +2,7 @@
 
 **06.08.2021**
 - /hood & /trunk hinzugefügt
+- Warnung bei zu wenig Tank hinzugefügt
 
 
 **03.08.2021**
