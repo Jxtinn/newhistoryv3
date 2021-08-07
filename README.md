@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**07.08.2021**
+- Advancedrifle in FFA hinzugefügt
+
+
 **06.08.2021**
 - /hood & /trunk hinzugefügt
 - Warnung bei zu wenig Tank hinzugefügt
