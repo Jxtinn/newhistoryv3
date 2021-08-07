@@ -8,6 +8,7 @@
 - Itali RSX in Shop hinzugefügt
 - Entity Super in Shop hinzugefügt
 - Emerus in Shop hinzugefügt
+- Novak in Shop hinzugefügt
 
 
 **06.08.2021**
