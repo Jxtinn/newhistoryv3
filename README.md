@@ -2,6 +2,7 @@
 
 **07.08.2021**
 - Advancedrifle in FFA hinzugefügt
+- Kuruma aus Shop entfernt
 
 
 **06.08.2021**
