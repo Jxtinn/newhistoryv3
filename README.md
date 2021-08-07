@@ -4,6 +4,7 @@
 - Advancedrifle in FFA hinzugefügt
 - Kuruma aus Shop entfernt
 - Growler Preis angepasst
+- Calico in Shop hinzugefügt
 
 
 **06.08.2021**
