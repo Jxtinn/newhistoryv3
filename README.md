@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**08.08.2021**
+- Freizeitaktivität (Fallschirmspringen) hinzugefügt
+
+
 **07.08.2021**
 - Advancedrifle in FFA hinzugefügt
 - Kuruma aus Shop entfernt
