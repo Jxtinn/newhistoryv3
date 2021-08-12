@@ -3,6 +3,7 @@
 **12.08.2021**
 - Mähfläche vom Rasenmähen auf 60 Meter begrenzt
 - Neuer Schwarzmarkt hinzugefügt
+- LSMD Map geupdatet (Version 1.3)
 
 
 **08.08.2021**
