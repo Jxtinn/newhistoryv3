@@ -6,6 +6,7 @@
 - LSMD Map geupdatet (Version 1.3)
 - Donatormap von Abgehoben hinzugefügt
 - Donatormap von Mila hinzugefügt
+- Spawnpoints der Garage versetzt (LSPD)
 
 
 **08.08.2021**
