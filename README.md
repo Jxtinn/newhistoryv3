@@ -4,6 +4,7 @@
 - Mähfläche vom Rasenmähen auf 60 Meter begrenzt
 - Neuer Schwarzmarkt hinzugefügt
 - LSMD Map geupdatet (Version 1.3)
+- Donatormap von Abgehoben hinzugefügt
 
 
 **08.08.2021**
