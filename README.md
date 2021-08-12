@@ -7,6 +7,7 @@
 - Donatormap von Abgehoben hinzugefügt
 - Donatormap von Mila hinzugefügt
 - Spawnpoints der Garage versetzt (LSPD)
+- Schwarzmarkt Addon Map hinzugefügt
 
 
 **08.08.2021**
