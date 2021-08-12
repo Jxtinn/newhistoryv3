@@ -5,6 +5,7 @@
 - Neuer Schwarzmarkt hinzugefügt
 - LSMD Map geupdatet (Version 1.3)
 - Donatormap von Abgehoben hinzugefügt
+- Donatormap von Mila hinzugefügt
 
 
 **08.08.2021**
