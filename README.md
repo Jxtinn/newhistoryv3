@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**12.08.2021**
+- Mähfläche vom Rasenmähen auf 60 Meter begrenzt
+
+
 **08.08.2021**
 - Freizeitaktivität (Fallschirmspringen) hinzugefügt
 
