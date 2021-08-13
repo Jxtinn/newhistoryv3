@@ -4,6 +4,7 @@
 - Übermacht Rebla GTS im Shop hinzugefügt
 - Erste-Hilfe-Lizenz hinzugefügt
 - Erste-Hilfe-Shop hinzugefügt (Standort im MD)
+- Anschnallgurt-Warnung hinzugefügt
 
 
 **12.08.2021**
