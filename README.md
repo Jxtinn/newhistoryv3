@@ -3,6 +3,7 @@
 **13.08.2021**
 - Übermacht Rebla GTS im Shop hinzugefügt
 - Erste-Hilfe-Lizenz hinzugefügt
+- Erste-Hilfe-Shop hinzugefügt (Standort im MD)
 
 
 **12.08.2021**
