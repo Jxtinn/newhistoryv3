@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**13.08.2021**
+- Übermacht Rebla GTS im Shop hinzugefügt
+
+
 **12.08.2021**
 - Mähfläche vom Rasenmähen auf 60 Meter begrenzt
 - Neuer Schwarzmarkt hinzugefügt
