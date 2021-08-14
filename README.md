@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**15.08.2021**
+- Forest Map hinzugefügt
+
+
 **13.08.2021**
 - Übermacht Rebla GTS im Shop hinzugefügt
 - Erste-Hilfe-Lizenz hinzugefügt
