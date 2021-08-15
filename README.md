@@ -6,6 +6,7 @@
 - Wechselkleidungs-Shop hinzugefügt
 - NPC-Interactions Menü hinzugefügt (Darunter Lesen!)
 - Dies ist derzeit nur im Wechselkleidungs-Shop zu finden
+- Jailfarm gefixt (Feile herstellen)
 
 
 **13.08.2021**
