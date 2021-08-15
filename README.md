@@ -4,6 +4,7 @@
 - Forest Map hinzugefügt
 - Wechselkleidung hinzugefügt
 - Wechselkleidungs-Shop hinzugefügt
+- NPC-Interactions Menü hinzugefügt (Darunter Lesen!)
 
 
 **13.08.2021**
