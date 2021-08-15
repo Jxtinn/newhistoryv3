@@ -2,6 +2,7 @@
 
 **15.08.2021**
 - Forest Map hinzugefügt
+- Wechselkleidung hinzugefügt
 
 
 **13.08.2021**
