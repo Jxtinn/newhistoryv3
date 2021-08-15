@@ -3,6 +3,7 @@
 **15.08.2021**
 - Forest Map hinzugefügt
 - Wechselkleidung hinzugefügt
+- Wechselkleidungs-Shop hinzugefügt
 
 
 **13.08.2021**
