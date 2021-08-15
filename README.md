@@ -5,6 +5,7 @@
 - Wechselkleidung hinzugefügt
 - Wechselkleidungs-Shop hinzugefügt
 - NPC-Interactions Menü hinzugefügt (Darunter Lesen!)
+- Dies ist derzeit nur im Wechselkleidungs-Shop zu finden
 
 
 **13.08.2021**
