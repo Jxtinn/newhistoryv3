@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.08.2021**
+- Kleidungsladen Erneuert
+
+
 **15.08.2021**
 - Forest Map hinzugefügt
 - Wechselkleidung hinzugefügt
