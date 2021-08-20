@@ -2,6 +2,7 @@
 
 **20.08.2021**
 - Kleidungsladen Erneuert
+- NPC-Interaction (hierüber) eingebaut!
 
 
 **15.08.2021**
