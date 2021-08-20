@@ -3,6 +3,7 @@
 **20.08.2021**
 - Kleidungsladen Erneuert
 - NPC-Interaction (hierüber) eingebaut!
+- Neuer Kleidungsladen vorerst entfernt (Bugs)
 
 
 **15.08.2021**
