@@ -5,6 +5,7 @@
 - NPC-Interaction (hierüber) eingebaut!
 - Neuer Kleidungsladen vorerst entfernt (Bugs)
 - Dono-Garage hinzugefügt (xTheRedPanda)
+- Dono-Garage hinzugefügt (Pablo)
 
 
 **15.08.2021**
