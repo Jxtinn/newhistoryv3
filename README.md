@@ -1,5 +1,8 @@
 # NewHistoryV2 (Dev-Log)
 
+**21.08.2021**
+- Anti-Aimbot Check verändert (Autoban Fix)
+
 **20.08.2021**
 - Kleidungsladen Erneuert
 - NPC-Interaction (hierüber) eingebaut!
