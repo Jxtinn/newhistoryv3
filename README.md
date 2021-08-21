@@ -2,6 +2,7 @@
 
 **21.08.2021**
 - Anti-Aimbot Check verändert (Autoban Fix)
+- Garage hinzugefügt (MD)
 
 **20.08.2021**
 - Kleidungsladen Erneuert
