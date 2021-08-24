@@ -1,10 +1,15 @@
 # NewHistoryV2 (Dev-Log)
 
+**24.08.2021**
+- Animierte G Klasse Angepasst
+
+
 **21.08.2021**
 - Anti-Aimbot Check verändert (Autoban Fix)
 - Garage hinzugefügt (MD)
 - Autowaschanlage Komplett erneuert!
 - Repairkits bei Autowaschanlage erhältlich
+
 
 **20.08.2021**
 - Kleidungsladen Erneuert
