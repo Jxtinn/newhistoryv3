@@ -2,11 +2,12 @@
 
 **26.08.2021**
 - Medicjob Shop für alle Ränge gefixt
-- Garage hinzugefügt (LCN)
+- Dono-Garage hinzugefügt (LCN)
 - Dono-Anwesen hinzugefügt (Früchtegott)
 - Dono-Anwesen hinzugefügt (RebornRazer)
 - Dono-Anwesen hinzugefügt (Ramona)
 - Dono-Anwesen hinzugefügt (Todesaffe)
+- Dono-Garage hinzugefügt (Todesaffe)
 
 
 **24.08.2021**
