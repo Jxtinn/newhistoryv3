@@ -2,6 +2,7 @@
 
 **26.08.2021**
 - Medicjob Shop für alle Ränge gefixt
+- Garage hinzugefügt (LCN)
 
 
 **24.08.2021**
