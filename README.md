@@ -9,6 +9,7 @@
 - Dono-Anwesen hinzugefügt (Todesaffe)
 - Dono-Garage hinzugefügt (Todesaffe)
 - Dono-Garage hinzugefügt (Yakuza)
+- Polizei Transporter & Bike im PD-Shop hinzugefügt
 
 
 **24.08.2021**
