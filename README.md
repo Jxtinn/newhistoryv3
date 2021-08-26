@@ -6,6 +6,7 @@
 - Dono-Anwesen hinzugefügt (Früchtegott)
 - Dono-Anwesen hinzugefügt (RebornRazer)
 - Dono-Anwesen hinzugefügt (Ramona)
+- Dono-Anwesen hinzugefügt (Todesaffe)
 
 
 **24.08.2021**
