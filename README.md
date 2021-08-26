@@ -5,6 +5,7 @@
 - Garage hinzugefügt (LCN)
 - Dono-Anwesen hinzugefügt (Früchtegott)
 - Dono-Anwesen hinzugefügt (RebornRazer)
+- Dono-Anwesen hinzugefügt (Ramona)
 
 
 **24.08.2021**
