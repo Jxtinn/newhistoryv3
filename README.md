@@ -8,6 +8,7 @@
 - Dono-Anwesen hinzugefügt (Ramona)
 - Dono-Anwesen hinzugefügt (Todesaffe)
 - Dono-Garage hinzugefügt (Todesaffe)
+- Dono-Garage hinzugefügt (Yakuza)
 
 
 **24.08.2021**
