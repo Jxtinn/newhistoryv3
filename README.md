@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**26.08.2021**
+- Medicjob Shop für alle Ränge gefixt
+
+
 **24.08.2021**
 - Animierte G Klasse Angepasst
 - 1995 Mustang ausgetauscht
