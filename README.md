@@ -4,6 +4,7 @@
 - Medicjob Shop für alle Ränge gefixt
 - Garage hinzugefügt (LCN)
 - Dono-Anwesen hinzugefügt (Früchtegott)
+- Dono-Anwesen hinzugefügt (RebornRazer)
 
 
 **24.08.2021**
