@@ -3,6 +3,7 @@
 **26.08.2021**
 - Medicjob Shop für alle Ränge gefixt
 - Garage hinzugefügt (LCN)
+- Dono-Anwesen hinzugefügt (Früchtegott)
 
 
 **24.08.2021**
