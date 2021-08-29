@@ -4,6 +4,7 @@
 - PD Fahrzeuge Hinzugefügt
 - Cam-Stuck bei Helicam, Shops & Deathcam gefixt
 - Uhren im Kleidungsshop hinzugefügt
+- Sekundäre Sirene auf "Pfeil-Hoch" gelegt
 
 
 **26.08.2021**
