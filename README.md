@@ -9,6 +9,7 @@
 - Coil Cyclone im Shop hinzugefügt
 - Grotti Itali GTO im Shop hinzugefügt
 - Tailgater S (Tuners Edition) im Shop hinzugefügt
+- Ocelot Jugular im Shop hinzugefügt
 
 
 **26.08.2021**
