@@ -2,6 +2,7 @@
 
 **29.08.2021**
 - PD Fahrzeuge Hinzugefügt
+- Cam-Stuck bei Helicam, Shops, Deathcam, etc. gefixt
 
 
 **26.08.2021**
