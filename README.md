@@ -5,6 +5,7 @@
 - Cam-Stuck bei Helicam, Shops & Deathcam gefixt
 - Uhren im Kleidungsshop hinzugefügt
 - Sekundäre Sirene auf "Pfeil-Hoch" gelegt
+- Pfister Neon im Shop hinzugefügt
 
 
 **26.08.2021**
