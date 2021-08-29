@@ -7,6 +7,7 @@
 - Sekundäre Sirene auf "Pfeil-Hoch" gelegt
 - Pfister Neon im Shop hinzugefügt
 - Coil Cyclone im Shop hinzugefügt
+- Grotti Itali GTO im Shop hinzugefügt
 
 
 **26.08.2021**
