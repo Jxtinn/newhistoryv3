@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**30.08.2021**
+- Kleidungsladen erneuert
+
+
 **29.08.2021**
 - PD Fahrzeuge Hinzugefügt
 - Cam-Stuck bei Helicam, Shops & Deathcam gefixt
