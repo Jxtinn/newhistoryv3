@@ -2,6 +2,7 @@
 
 **30.08.2021**
 - Kleidungsladen erneuert
+- Accessoriesladen eingefügt
 
 
 **29.08.2021**
