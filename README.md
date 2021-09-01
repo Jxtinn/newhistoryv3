@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**01.09.2021**
+- Lucky Plucker Job hinzugefügt
+
+
 **30.08.2021**
 - Kleidungsladen erneuert
 - Accessoriesladen eingefügt
