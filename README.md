@@ -2,6 +2,7 @@
 
 **01.09.2021**
 - Lucky Plucker Job hinzugefügt
+- Lucky Plucker Map hinzugefügt
 
 
 **30.08.2021**
