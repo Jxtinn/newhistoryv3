@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**03.09.2021**
+- LSPD Sperrzone hinzugefügt
+
+
 **01.09.2021**
 - Lucky Plucker Job hinzugefügt
 - Lucky Plucker Map hinzugefügt
