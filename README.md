@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**05.09.2021**
+- Neues Special Car hinzugefügt
+
+
 **03.09.2021**
 - LSPD Sperrzone hinzugefügt
 
