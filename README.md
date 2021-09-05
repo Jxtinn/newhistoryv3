@@ -6,6 +6,7 @@
 - SCU Anwesen versperrt
 - SCU Garage hinzugefügt
 - Anschnall-Sound geändert 
+- Tank-Warnung nur noch für Fahrer 
 
 
 **03.09.2021**
