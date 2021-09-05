@@ -4,6 +4,7 @@
 - Neues Special Car hinzugefügt
 - DOJ Frak-App freigegeben
 - SCU Anwesen versperrt
+- SCU Garage hinzugefügt
 
 
 **03.09.2021**
