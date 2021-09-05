@@ -5,6 +5,7 @@
 - DOJ Frak-App freigegeben
 - SCU Anwesen versperrt
 - SCU Garage hinzugefügt
+- Anschnall-Sound geändert 
 
 
 **03.09.2021**
