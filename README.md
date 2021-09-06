@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**06.09.2021**
+- Neuer Heist (Union Depository) hinzugefügt
+
+
 **05.09.2021**
 - Neues Special Car hinzugefügt
 - DOJ Frak-App freigegeben
