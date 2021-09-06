@@ -3,6 +3,7 @@
 **06.09.2021**
 - Neuer Heist (Union Depository) hinzugefügt
 - Haus von DasJugendamt markiert
+- Ducken auf Linke STRG hinzugefügt
 
 
 **05.09.2021**
