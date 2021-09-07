@@ -4,8 +4,8 @@
 - Brabus E63S angepasst
 - Labore angepasst
 - Westenroute angepasst/updated
-<!-- - Munitionsroute angepasst/updated
-- Waffenroute angepasst/updated -->
+- Munitionsroute angepasst/updated
+<!-- - Waffenroute angepasst/updated -->
 
 
 **06.09.2021**
