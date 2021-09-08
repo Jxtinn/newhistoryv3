@@ -8,6 +8,7 @@
 - Brigada Labore hinzugefügt
 - Triaden Job hinzugefügt
 - Triaden Labore hinzugefügt
+- DOJ Antrag umgesetzt
 
 
 **07.09.2021**
