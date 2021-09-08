@@ -2,6 +2,7 @@
 
 **08.09.2021**
 - Loadingscreen-Song updated
+- Frak-App nun für jeden verfügbar
 
 
 **07.09.2021**
