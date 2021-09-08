@@ -10,6 +10,7 @@
 - Triaden Labore hinzugefügt
 - DOJ Antrag umgesetzt
 - Neue Cars hinzugefügt (Caracara Diamond, V-STR, Komoda)
+- Kleidungsladen updated (Neue Klamotten & Bilder)
 
 
 **07.09.2021**
