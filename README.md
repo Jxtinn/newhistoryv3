@@ -9,6 +9,7 @@
 - Triaden Job hinzugefügt
 - Triaden Labore hinzugefügt
 - DOJ Antrag umgesetzt
+- Neue Cars hinzugefügt (Caracara Diamond, V-STR, Komoda)
 
 
 **07.09.2021**
