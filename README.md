@@ -6,6 +6,7 @@
 - Shop-Räube angepasst (Belohnung & Cop-Anzahl)
 - Brigada Job hinzugefügt
 - Brigada Labore hinzugefügt
+- Triaden Job hinzugefügt
 
 
 **07.09.2021**
