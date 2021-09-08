@@ -5,6 +5,7 @@
 - Frak-App nun für jeden verfügbar
 - Shop-Räube angepasst (Belohnung & Cop-Anzahl)
 - Brigada Job hinzugefügt
+- Brigada Labore hinzugefügt
 
 
 **07.09.2021**
