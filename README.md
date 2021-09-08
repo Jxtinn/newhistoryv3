@@ -3,6 +3,7 @@
 **08.09.2021**
 - Loadingscreen-Song updated
 - Frak-App nun für jeden verfügbar
+- Shop-Räube angepasst (Belohnung & Cop-Anzahl)
 
 
 **07.09.2021**
