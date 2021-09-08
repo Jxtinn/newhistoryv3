@@ -7,6 +7,7 @@
 - Brigada Job hinzugefügt
 - Brigada Labore hinzugefügt
 - Triaden Job hinzugefügt
+- Triaden Labore hinzugefügt
 
 
 **07.09.2021**
