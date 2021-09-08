@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**08.09.2021**
+- Loadingscreen-Song updated
+
+
 **07.09.2021**
 - Brabus E63S angepasst
 - Labore angepasst
