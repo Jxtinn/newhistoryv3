@@ -2,7 +2,8 @@
 
 **09.09.2021**
 - Grafitti Spraydosen hinzugefügt
-- 31 Neue Fahrzeuge Hinzugefügt
+- 31 neue Fahrzeuge Hinzugefügt
+- Neue Fraktionslager hinzugefügt
 
 
 **08.09.2021**
