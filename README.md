@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**09.09.2021**
+- Grafitti Spraydosen hinzugefügt
+
+
 **08.09.2021**
 - Loadingscreen-Song updated
 - Frak-App nun für jeden verfügbar
