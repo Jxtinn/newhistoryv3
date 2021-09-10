@@ -5,7 +5,7 @@
 - 31 neue Fahrzeuge Hinzugefügt
 - Neue Fraktionslager hinzugefügt
 - The Lost MC Job hinzugefügt
-
+- The Lost MC Job Add-Ons hinzugefügt
 
 **08.09.2021**
 - Loadingscreen-Song updated
