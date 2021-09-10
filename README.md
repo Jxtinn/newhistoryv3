@@ -4,6 +4,7 @@
 - Grafitti Spraydosen hinzugefügt
 - 31 neue Fahrzeuge Hinzugefügt
 - Neue Fraktionslager hinzugefügt
+- The Lost MC Job hinzugefügt
 
 
 **08.09.2021**
