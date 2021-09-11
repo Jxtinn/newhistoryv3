@@ -1,5 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
+**11.09.2021**
+- La Familia Job hinzugefügt
+- La Famila Map hinzugefügt
+- La Familia Tuning-Werkstatt hinzugefügt
+- La Familia Werkstatt Map hinzugefügt
+
+
 **09.09.2021**
 - Grafitti Spraydosen hinzugefügt
 - 31 neue Fahrzeuge Hinzugefügt
