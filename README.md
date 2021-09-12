@@ -2,6 +2,7 @@
 
 **12.09.2021**
 - Audi R8 umgetauscht
+- Corvette C7 gefixt
 
 
 **11.09.2021**
