@@ -9,6 +9,7 @@
 - Unionheist Items im Schwarzmarkt hinzugefügt
 - Advanced Gewehr Bild hinzugefügt
 - Brecheisen Bild hinzugefügt
+- Brecheisen in Ammunation hinzugefügt
 
 
 **14.09.2021**
