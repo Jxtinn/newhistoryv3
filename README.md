@@ -7,6 +7,7 @@
 - Dono-Garage (Ramona) hinzugefügt
 - Dietriche im Schwarzmarkt hinzugefügt
 - Unionheist Items im Schwarzmarkt hinzugefügt
+- Advanced Gewehr Bild hinzugefügt
 
 
 **14.09.2021**
