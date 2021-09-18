@@ -12,6 +12,7 @@
 - Brecheisen in Ammunation hinzugefügt 
 - PD Tiefgaragentür gefixt
 - Bankautomaten Räube hinzugefügt
+- Aufbrechen Option für Benny's hinzugefügt
 
 
 **14.09.2021**
