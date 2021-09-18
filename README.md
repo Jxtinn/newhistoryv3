@@ -4,6 +4,7 @@
 - LSPD Kleidung angepasst
 - Dono-Garage (Abgehoben) hinzugefügt
 - Dono-Garage (RebornRazer) hinzugefügt
+- Dono-Garage (Ramona) hinzugefügt
 
 
 **14.09.2021**
