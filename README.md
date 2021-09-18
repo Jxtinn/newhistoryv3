@@ -11,6 +11,7 @@
 - Brecheisen Bild hinzugefügt
 - Brecheisen in Ammunation hinzugefügt 
 - PD Tiefgaragentür gefixt
+- Bankautomaten Räube hinzugefügt
 
 
 **14.09.2021**
