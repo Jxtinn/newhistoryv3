@@ -1,9 +1,13 @@
 # NewHistoryV2 (Dev-Log)
 
+**18.09.2021**
+- LSPD Kleidung angepasst
+- Dono-Garage (Abgehoben) hinzugefügt
+
+
 **14.09.2021**
 - Neue LSPD Autos hinzugefügt
 - Neues Lucky Pluckers Auto hinzugefügt
-- LSPD Kleidung angepasst
 
 
 **12.09.2021**
