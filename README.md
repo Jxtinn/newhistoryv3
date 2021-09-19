@@ -13,6 +13,7 @@
 - PD Tiefgaragentür gefixt
 - Bankautomaten Räube hinzugefügt
 - Aufbrechen Option für Benny's hinzugefügt
+- Bankautomaten Räube gefixt (Cooldown)
 
 
 **14.09.2021**
