@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.09.2021**
+- Gleichzeitiges Funken nun möglich
+
+
 **18.09.2021**
 - LSPD Kleidung angepasst
 - Dono-Garage (Abgehoben) hinzugefügt
