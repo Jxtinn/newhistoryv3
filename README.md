@@ -23,6 +23,7 @@
 - Dono-Anwesen von xTheRedPanda entfernt
 - Dono-Anwesen von Todesaffe entfernt
 - Dono-Anwesen von Layton entfernt
+- Dono-Garage von xTheRedPanda entfernt
 
 
 **25.09.2021**
