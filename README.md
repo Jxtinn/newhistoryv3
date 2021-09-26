@@ -9,6 +9,7 @@
 - Neues Salty-NUI hinzugefügt
 - Dono-Anwesen für Gurken_Wick hinzugefügt
 - Dono-Anwesen für Ayoto hinzugefügt
+- Dono-Anwesen für Syntex hinzugefügt
 
 
 **25.09.2021**
