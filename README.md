@@ -7,6 +7,7 @@
 - Waffenkammer-Klon vom PD am SG hinzugefügt
 - Zweiter Ausparkpunkt beim PD für große Fahrzeuge hinzugefügt
 - Neues Salty-NUI hinzugefügt
+- Dono-Anwesen für Gurken_Wick hinzugefügt
 
 
 **25.09.2021**
