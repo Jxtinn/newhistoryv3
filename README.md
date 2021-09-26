@@ -4,7 +4,6 @@
 - ATM Räube angepasst
 - Neues LSMD Fahrzeug hinzugefügt
 - Ballas Job hinzugefügt
-
 - ATM-Räube Cooldown hinzugefügt
 
 
