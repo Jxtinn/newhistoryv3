@@ -10,6 +10,7 @@
 - Dono-Anwesen für Gurken_Wick hinzugefügt
 - Dono-Anwesen für Ayoto hinzugefügt
 - Dono-Anwesen für Syntex hinzugefügt
+- Items/Waffen/Geld wegwerfen hinzugefügt (Testweise!)
 
 
 **25.09.2021**
