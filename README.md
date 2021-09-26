@@ -20,6 +20,7 @@
 - Westenroute und Waffenroute angepasst
 - Tankstellen & Kanister angepasst
 - Gehälter von Staatsfraktionen angepasst
+- Dono-Anwesen von xTheRedPanda entfernt
 
 
 **25.09.2021**
