@@ -5,6 +5,7 @@
 - ATM-Räube Cooldown hinzugefügt
 - Neues Medic Fahrzeug hinzugefügt
 - Waffenkammer-Klon vom PD am SG hinzugefügt
+- Zweiter Ausparkpunkt beim PD für große Fahrzeuge hinzugefügt
 
 
 **25.09.2021**
