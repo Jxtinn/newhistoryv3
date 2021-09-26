@@ -15,7 +15,7 @@
 - Neue ATMs hinzugefügt
 - Neue Baustelle neben dem LSPD hinzugefügt
 - Poller & Schranken am LSMD hinzugefügt
-
+- ATM-Räube Blip für Cops angepasst 
 
 **25.09.2021**
 - ATM Räube angepasst
