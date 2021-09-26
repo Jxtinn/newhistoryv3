@@ -8,6 +8,7 @@
 - Zweiter Ausparkpunkt beim PD für große Fahrzeuge hinzugefügt
 - Neues Salty-NUI hinzugefügt
 - Dono-Anwesen für Gurken_Wick hinzugefügt
+- Dono-Anwesen für Ayoto hinzugefügt
 
 
 **25.09.2021**
