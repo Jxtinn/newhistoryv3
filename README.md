@@ -17,6 +17,7 @@
 - Poller & Schranken am LSMD hinzugefügt
 - ATM-Räube Blip für Cops angepasst 
 - Medic-Heli Spanwpoint angepasst
+- Westenroute und Waffenroute angepasst
 
 
 **25.09.2021**
