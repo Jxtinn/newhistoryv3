@@ -18,6 +18,7 @@
 - ATM-Räube Blip für Cops angepasst 
 - Medic-Heli Spanwpoint angepasst
 - Westenroute und Waffenroute angepasst
+- Tankstellen & Kanister angepasst
 
 
 **25.09.2021**
