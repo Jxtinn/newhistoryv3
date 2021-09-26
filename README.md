@@ -1,11 +1,15 @@
 # NewHistoryV2 (Dev-Log)
 
-**25.09.2021**
-- ATM Räube angepasst
-- Neues LSMD Fahrzeug hinzugefügt
+**26.09.2021**
 - Ballas Job hinzugefügt
 - ATM-Räube Cooldown hinzugefügt
 - Neues Medic Fahrzeug hinzugefügt
+- Waffenkammer-Klon vom PD am SG hinzugefügt
+
+
+**25.09.2021**
+- ATM Räube angepasst
+- Neues LSMD Fahrzeug hinzugefügt
 
 
 **20.09.2021**
