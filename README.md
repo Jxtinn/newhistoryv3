@@ -11,6 +11,7 @@
 - Dono-Anwesen für Ayoto hinzugefügt
 - Dono-Anwesen für Syntex hinzugefügt
 - Items/Waffen/Geld wegwerfen hinzugefügt (Testweise!)
+- Auto schieben bei Schaden hinzugefügt
 
 
 **25.09.2021**
