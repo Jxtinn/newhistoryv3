@@ -19,6 +19,7 @@
 - Medic-Heli Spanwpoint angepasst
 - Westenroute und Waffenroute angepasst
 - Tankstellen & Kanister angepasst
+- Gehälter von Staatsfraktionen angepasst
 
 
 **25.09.2021**
