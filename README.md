@@ -5,6 +5,7 @@
 - Neues LSMD Fahrzeug hinzugefügt
 - Ballas Job hinzugefügt
 - ATM-Räube Cooldown hinzugefügt
+- Neues Medic Fahrzeug hinzugefügt
 
 
 **20.09.2021**
