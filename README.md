@@ -12,6 +12,7 @@
 - Dono-Anwesen für Syntex hinzugefügt
 - Items/Waffen/Geld wegwerfen hinzugefügt (Testweise!)
 - Auto schieben bei Schaden hinzugefügt
+- Neue ATMs hinzugefügt
 
 
 **25.09.2021**
