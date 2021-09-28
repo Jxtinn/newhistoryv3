@@ -2,6 +2,7 @@
 
 **28.09.2021**
 - Rasenmähen gefixt
+- Console Errors gefixt
 
 
 **26.09.2021**
