@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**28.09.2021**
+- Rasenmähen gefixt
+
+
 **26.09.2021**
 - Ballas Job hinzugefügt
 - ATM-Räube Cooldown hinzugefügt
