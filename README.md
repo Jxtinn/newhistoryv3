@@ -6,6 +6,7 @@
 - ChocoHax geupdated (false-positives möglich)
 - Saltychat geupdated
 - D-Phone gedowngraded auf alte Version (Bugs)
+- ChocoHax Settings angepasst (Fehlbanns)
 
 
 **29.09.2021**
