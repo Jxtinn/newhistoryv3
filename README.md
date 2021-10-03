@@ -2,6 +2,7 @@
 
 **03.10.2021**
 - D-Phone geupdated
+- AAC auf Version REDUX-2.3 geupdated
 
 
 **29.09.2021**
