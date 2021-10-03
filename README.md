@@ -3,6 +3,7 @@
 **03.10.2021**
 - D-Phone geupdated
 - AAC auf Version REDUX-2.3 geupdated
+- ChocoHax geupdated (false-positives möglich)
 
 
 **29.09.2021**
