@@ -5,6 +5,7 @@
 - AAC auf Version REDUX-2.3 geupdated
 - ChocoHax geupdated (false-positives möglich)
 - Saltychat geupdated
+- D-Phone gedowngraded auf alte Version (Bugs)
 
 
 **29.09.2021**
