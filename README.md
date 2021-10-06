@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**06.10.2021**
+- Holster-Script Bugfixes & überarbeitung
+
+
 **03.10.2021**
 - D-Phone geupdated
 - AAC auf Version REDUX-2.3 geupdated
