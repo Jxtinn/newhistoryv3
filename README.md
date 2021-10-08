@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**08.10.2021**
+- Ferrari FXX Angepasst
+
+
 **06.10.2021**
 - Holster-Script Bugfixes & überarbeitung
 
