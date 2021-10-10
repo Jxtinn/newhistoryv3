@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**10.10.2021**
+- Koenigsegg Gemera Angepasst
+
+
 **08.10.2021**
 - Ferrari FXX Angepasst
 
