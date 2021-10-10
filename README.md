@@ -2,6 +2,7 @@
 
 **10.10.2021**
 - Koenigsegg Gemera Angepasst
+- Bentley Bacalar Angepasst
 
 
 **08.10.2021**
