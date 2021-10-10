@@ -3,6 +3,7 @@
 **10.10.2021**
 - Koenigsegg Gemera Angepasst
 - Bentley Bacalar Angepasst
+- SWAT Charger Angepasst
 
 
 **08.10.2021**
