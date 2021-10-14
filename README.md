@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**14.10.2021**
+- Kleiner Vorgeschmack auf das Event (ab 02:00 Uhr)
+
+
 **10.10.2021**
 - Koenigsegg Gemera Angepasst
 - Bentley Bacalar Angepasst
