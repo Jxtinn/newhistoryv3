@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**17.10.2021**
+- AAC-REDUX überarbeitet
+
+
 **16.10.2021**
 - S63 AMG Angepasst
 
