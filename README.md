@@ -2,6 +2,7 @@
 
 **17.10.2021**
 - AAC-REDUX überarbeitet
+- Diverse Scripts überarbeitet und gesichert
 
 
 **16.10.2021**
