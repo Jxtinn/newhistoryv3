@@ -3,6 +3,7 @@
 **17.10.2021**
 - AAC-REDUX überarbeitet
 - Diverse Scripts überarbeitet und gesichert
+- Union-Heist aus Sicherheitsgründen entfernt
 
 
 **16.10.2021**
