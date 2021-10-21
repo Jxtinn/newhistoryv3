@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**21.10.2021**
+- Weedpreis angepasst
+
+
 **17.10.2021**
 - AAC-REDUX überarbeitet
 - Diverse Scripts überarbeitet und gesichert
