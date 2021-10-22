@@ -1,6 +1,10 @@
 # NewHistoryV2 (Dev-Log)
 
 **21.10.2021**
+- Audi RS6 Angepasst
+
+
+**21.10.2021**
 - Weedpreis angepasst
 
 
