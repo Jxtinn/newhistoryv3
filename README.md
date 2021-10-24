@@ -3,6 +3,7 @@
 **24.10.2021**
 - Ammunation Raub angepasst
 - "Sichtbar machen" auf ein Mal beschränkt
+- Maps gepackt (Ressourcen eingespart)
 
 **21.10.2021**
 - Audi RS6 Angepasst
