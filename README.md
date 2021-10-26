@@ -4,6 +4,7 @@
 - Schuhe im Kleidungsladen angepasst
 - Einparkpunkt an mehreren Apartments gefixt
 - Item-Drop aus Sicherheitsgründen entfernt
+- Revolter, Drift Yosemite und Toros im PDM hinzugefügt
 
 
 **24.10.2021**
