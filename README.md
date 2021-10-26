@@ -2,6 +2,7 @@
 
 **26.10.2021**
 - Schuhe im Kleidungsladen angepasst
+- Einparkpunkt an mehreren Apartments gefixt
 
 
 **24.10.2021**
