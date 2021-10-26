@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**26.10.2021**
+- Schuhe im Kleidungsladen angepasst
+
+
 **24.10.2021**
 - Ammunation Raub angepasst
 - "Sichtbar machen" auf ein Mal beschränkt
