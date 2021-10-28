@@ -6,6 +6,7 @@
 - MP-Magazin Inventarbild hinzugefügt
 - Garage von Syntex hinzugefügt
 - Garage von Ayoto hinzugefügt
+- Lost MC Map (Bauarbeiten) hinzugefügt
 
 
 **26.10.2021**
