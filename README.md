@@ -9,6 +9,7 @@
 - Lost MC Map (Bauarbeiten) hinzugefügt
 - Map von Gurken_Wick hinzugefügt
 - Map von xTheRedPanda (Brigada) hinzugefügt
+- Labore ausrauben (nur für Mafien) hinzugefügt
 
 
 **26.10.2021**
