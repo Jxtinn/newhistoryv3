@@ -5,6 +5,7 @@
 - Logs für Drogenverkäufer hinzugefügt
 - MP-Magazin Inventarbild hinzugefügt
 - Garage von Syntex hinzugefügt
+- Garage von Ayoto hinzugefügt
 
 
 **26.10.2021**
