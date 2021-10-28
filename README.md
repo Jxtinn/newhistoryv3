@@ -11,6 +11,7 @@
 - Map von xTheRedPanda (Brigada) hinzugefügt
 - Labore ausrauben (nur für Mafien) hinzugefügt
 - Munitionsroute (2. Spot) angepasst
+- Munitionsroute Drops angepasst
 
 
 **26.10.2021**
