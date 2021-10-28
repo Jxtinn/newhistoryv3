@@ -12,6 +12,7 @@
 - Labore ausrauben (nur für Mafien) hinzugefügt
 - Munitionsroute (2. Spot) angepasst
 - Munitionsroute Drops angepasst
+- Westenteile Gewicht (M & S) angepasst
 
 
 **26.10.2021**
