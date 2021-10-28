@@ -8,6 +8,7 @@
 - Garage von Ayoto hinzugefügt
 - Lost MC Map (Bauarbeiten) hinzugefügt
 - Map von Gurken_Wick hinzugefügt
+- Map von xTheRedPanda (Brigada) hinzugefügt
 
 
 **26.10.2021**
