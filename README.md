@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**28.10.2021**
+- Logs für Labor-Inventar hinzugefügt
+
+
 **26.10.2021**
 - Schuhe im Kleidungsladen angepasst
 - Einparkpunkt an mehreren Apartments gefixt
