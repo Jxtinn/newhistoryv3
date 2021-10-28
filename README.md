@@ -4,6 +4,7 @@
 - Logs für Labor-Inventar hinzugefügt
 - Logs für Drogenverkäufer hinzugefügt
 - MP-Magazin Inventarbild hinzugefügt
+- Garage von Syntex hinzugefügt
 
 
 **26.10.2021**
