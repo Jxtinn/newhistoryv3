@@ -7,6 +7,7 @@
 - Garage von Syntex hinzugefügt
 - Garage von Ayoto hinzugefügt
 - Lost MC Map (Bauarbeiten) hinzugefügt
+- Map von Gurken_Wick hinzugefügt
 
 
 **26.10.2021**
