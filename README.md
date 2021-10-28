@@ -3,6 +3,7 @@
 **28.10.2021**
 - Logs für Labor-Inventar hinzugefügt
 - Logs für Drogenverkäufer hinzugefügt
+- MP-Magazin Inventarbild hinzugefügt
 
 
 **26.10.2021**
