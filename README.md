@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**30.10.2021**
+- ATMs am PD, MD & Impound hinzugefügt
+
+
 **28.10.2021**
 - Logs für Labor-Inventar hinzugefügt
 - Logs für Drogenverkäufer hinzugefügt
