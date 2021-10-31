@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**31.10.2021**
+- Horror-Event vorbereitet
+
+
 **30.10.2021**
 - ATMs am PD, MD & Impound hinzugefügt
 
