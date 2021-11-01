@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**01.11.2021**
+- Grove Map hinzugefügt
+
+
 **31.10.2021**
 - Horror-Event vorbereitet
 
