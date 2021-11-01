@@ -2,6 +2,7 @@
 
 **01.11.2021**
 - Grove Map hinzugefügt
+- Loadingscreen geändert
 
 
 **31.10.2021**
