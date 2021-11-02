@@ -4,6 +4,7 @@
 - Loadinscreen Logo geändert
 - Loadinscreen Musik geändert
 - Watermark Logo geändert
+- Emote Menü Logo geändert
 
 
 **01.11.2021**
