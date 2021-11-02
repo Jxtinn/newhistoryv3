@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**02.11.2021**
+- Loadinscreen Logo geändert
+
+
 **01.11.2021**
 - Grove Map hinzugefügt
 - Loadingscreen geändert
