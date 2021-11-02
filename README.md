@@ -3,6 +3,7 @@
 **02.11.2021**
 - Loadinscreen Logo geändert
 - Loadinscreen Musik geändert
+- Watermark Logo geändert
 
 
 **01.11.2021**
