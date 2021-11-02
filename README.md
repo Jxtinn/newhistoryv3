@@ -2,6 +2,7 @@
 
 **02.11.2021**
 - Loadinscreen Logo geändert
+- Loadinscreen Musik geändert
 
 
 **01.11.2021**
