@@ -5,6 +5,7 @@
 - Loadinscreen Musik geändert
 - Watermark Logo geändert
 - Emote Menü Logo geändert
+- Map von Feuerspieler hinzugefügt
 
 
 **01.11.2021**
