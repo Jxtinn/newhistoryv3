@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**03.11.2021**
+- Banking-UI angepasst (PandaaFX)
+
+
 **02.11.2021**
 - Loadinscreen Logo geändert
 - Loadinscreen Musik geändert
