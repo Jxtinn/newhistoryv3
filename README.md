@@ -1,6 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
 **03.11.2021**
+- Brabus E63 Angepasst
+
+
+
+
+**03.11.2021**
 - Banking-UI angepasst (PandaaFX)
 - Blip für Anwesen von Feuerspieler hinzugefügt
 - Grove Custom Map hinzugefügt
