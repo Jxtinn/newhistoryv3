@@ -2,6 +2,7 @@
 
 **04.11.2021**
 - Status Page hinzugefügt
+- Grove Zaun Gefixt
 
 
 **03.11.2021**
