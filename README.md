@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**04.11.2021**
+- Status Page hinzugefügt
+
+
 **03.11.2021**
 - Brabus E63 Angepasst
 - Dodge Demon Angepasst
