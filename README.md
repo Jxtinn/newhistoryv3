@@ -1,5 +1,10 @@
 # NewHistoryV2 (Dev-Log)
 
+**05.11.2021**
+- Stelvio Kofferaum erhöht (Test)
+
+
+
 **04.11.2021**
 - Status Page hinzugefügt
 - Grove Zaun Gefixt
