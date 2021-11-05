@@ -2,7 +2,7 @@
 
 **05.11.2021**
 - Stelvio Kofferaum erhöht (Test)
-
+- Yamaha Resistenter gemacht (Test)
 
 
 **04.11.2021**
