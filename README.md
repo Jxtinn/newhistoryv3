@@ -2,6 +2,7 @@
 
 **06.11.2021**
 - Bloods Job hinzugefügt
+- Bloods Hood Map hinzugefügt
 
 
 **05.11.2021**
