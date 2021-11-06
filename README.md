@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**06.11.2021**
+- Bloods Job hinzugefügt
+
+
 **05.11.2021**
 - Stelvio Kofferaum erhöht (Test)
 - Yamaha Resistenter gemacht (Test)
