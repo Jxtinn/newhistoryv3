@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**07.11.2021**
+- V Class Kofferaum erhöht
+
+
 **06.11.2021**
 - Bloods Job hinzugefügt
 - Bloods Hood Map hinzugefügt
