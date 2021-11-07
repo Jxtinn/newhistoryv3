@@ -3,6 +3,7 @@
 **07.11.2021**
 - V Class Kofferaum erhöht
 - Neuen Fleeca-Raub hinzugefügt
+- Neuen Pacific-Raub hinzugefügt
 
 
 **06.11.2021**
