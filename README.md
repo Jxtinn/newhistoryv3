@@ -1,6 +1,7 @@
 # NewHistoryV2 (Dev-Log)
 
 - Discord Bot "Testus" hinzugefügt
+- Commands hinzugefügt siehe: nhphelp
 **07.11.2021**
 - V Class Kofferaum erhöht
 - Neuen Fleeca-Raub hinzugefügt
