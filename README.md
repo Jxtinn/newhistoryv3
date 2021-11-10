@@ -1,5 +1,6 @@
 # NewHistoryV2 (Dev-Log)
 
+- Rollenvergaben Channel überarbeitet
 - Discord Bot "Testus" hinzugefügt
 - Commands hinzugefügt siehe: nhphelp
 **07.11.2021**
