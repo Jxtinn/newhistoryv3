@@ -1,6 +1,7 @@
 # NewHistoryV2 (Dev-Log)
 
 - Mehrere Channel überarbeitet
+- Willkommensnachricht hinzugefügt
 - Rollenvergaben Channel überarbeitet
 - Regelwerks Channel überarbeitet
 - Discord Bot "Testus" hinzugefügt
