@@ -4,6 +4,7 @@
 - Mehrere Channel überarbeitet
 - Willkommensnachricht hinzugefügt
 - Server-Artifacts geupdated
+- Server-Banner angepasst
 
 **10.11.2021**
 - Rollenvergaben Channel überarbeitet
