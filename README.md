@@ -1,5 +1,6 @@
 # NewHistoryV2 (Dev-Log)
 
+- Bot umbenannt zu 'NewHistory × Systems'
 **11.11.2021**
 - Mehrere Channel überarbeitet
 - Willkommensnachricht hinzugefügt
