@@ -3,6 +3,7 @@
 **14.11.2021**
 - Triaden Garage hinzugefügt
 - Bankraub Item-Dealer hinzugefügt
+- Schnee hinzugefügt (Wetter)
 
 
 **12.11.2021**
