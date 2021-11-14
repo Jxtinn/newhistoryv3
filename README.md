@@ -2,7 +2,7 @@
 
 **14.11.2021**
 - Triaden Garage hinzugefügt
-- Bankraub Items hinzugefügt
+- Bankraub Item-Dealer hinzugefügt
 
 
 **12.11.2021**
