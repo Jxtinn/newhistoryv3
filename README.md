@@ -6,6 +6,7 @@
 - Schnee hinzugefügt (Wetter)
 - Schneebälle hinzugefügt
 - Weihnachtsmap hinzugefügt (Meetingpoint)
+- Weihnachtsmap hinzugefügt (Zugefrorener Alamosee)
 
 
 **12.11.2021**
