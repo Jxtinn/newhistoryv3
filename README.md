@@ -5,6 +5,7 @@
 - Bankraub Item-Dealer hinzugefügt
 - Schnee hinzugefügt (Wetter)
 - Schneebälle hinzugefügt
+- Weihnachtsmap hinzugefügt (Meetingpoint)
 
 
 **12.11.2021**
