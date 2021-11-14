@@ -1,12 +1,20 @@
 # NewHistoryV2 (Dev-Log)
 
+**14.11.2021**
+- Triaden Garage hinzugefügt
+
+
+**12.11.2021**
 - Bot umbenannt zu 'NewHistory × Systems'
 - XP / Level System hinzugefügt 
+
+
 **11.11.2021**
 - Mehrere Channel überarbeitet
 - Willkommensnachricht hinzugefügt
 - Server-Artifacts geupdated
 - Server-Banner angepasst
+
 
 **10.11.2021**
 - Rollenvergaben Channel überarbeitet
@@ -42,7 +50,6 @@
 **03.11.2021**
 - Brabus E63 Angepasst
 - Dodge Demon Angepasst
-
 
 
 **03.11.2021**
