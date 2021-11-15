@@ -2,6 +2,7 @@
 
 **15.11.2021**
 - Website Buttons bei Anfängertipps aktualisiert
+- Brigada Garage hinzugefügt
 
 
 **14.11.2021**
