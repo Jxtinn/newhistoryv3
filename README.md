@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**15.11.2021**
+- Website Buttons bei Anfängertipps aktualisiert
+
+
 **14.11.2021**
 - Triaden Garage hinzugefügt
 - Bankraub Item-Dealer hinzugefügt
