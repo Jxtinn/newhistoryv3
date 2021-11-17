@@ -2,6 +2,7 @@
 
 **17.11.2021**
 - Polizei-Motorrad hinzugefügt
+- Medic-Helikopter hinzugefügt
 
 
 **15.11.2021**
