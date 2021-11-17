@@ -4,6 +4,7 @@
 - Polizei-Motorrad hinzugefügt
 - Medic-Helikopter hinzugefügt
 - Bloods Blip geändert
+- Fraktions-Autohändler hinzugefügt
 
 
 **15.11.2021**
