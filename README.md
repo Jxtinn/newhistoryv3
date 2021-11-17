@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**17.11.2021**
+- Polizei-Motorrad hinzugefügt
+
+
 **15.11.2021**
 - Website Buttons bei Anfängertipps aktualisiert
 - Brigada Garage hinzugefügt
