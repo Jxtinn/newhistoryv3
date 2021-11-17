@@ -3,6 +3,7 @@
 **17.11.2021**
 - Polizei-Motorrad hinzugefügt
 - Medic-Helikopter hinzugefügt
+- Bloods Blip geändert
 
 
 **15.11.2021**
