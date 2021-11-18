@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**18.11.2021**
+- Fraktions Autohändler für Lost MC freigeschaltet
+
+
 **17.11.2021**
 - Polizei-Motorrad hinzugefügt
 - Medic-Helikopter hinzugefügt
