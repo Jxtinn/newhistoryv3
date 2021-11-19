@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**19.11.2021**
+- Fraktions-Autohändler gefixt
+
+
 **18.11.2021**
 - Fraktions Autohändler für Lost MC freigeschaltet
 
