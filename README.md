@@ -1,7 +1,8 @@
 # NewHistoryV2 (Dev-Log)
 
 **19.11.2021**
-- Fraktions-Autohändler gefixt
+- Fraktions Autohändler gefixt
+- Grove Job hinzugefügt
 
 
 **18.11.2021**
