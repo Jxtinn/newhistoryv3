@@ -2,6 +2,7 @@
 
 **20.11.2021**
 - Kleinere Bugs im F1-Menü gefixt
+- Kleinere Übersetzungsfehler in diversen Jobs gefixt
 
 
 **19.11.2021**
