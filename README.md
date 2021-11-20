@@ -3,6 +3,7 @@
 **20.11.2021**
 - Kleinere Bugs im F1-Menü gefixt
 - Übersetzungsfehler in diversen Jobs gefixt
+- Zeit & Preis von Whiteplate angepasst
 
 
 **19.11.2021**
