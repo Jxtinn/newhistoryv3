@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.11.2021**
+- Kleinere Bugs im F1-Menü gefixt
+
+
 **19.11.2021**
 - Fraktions Autohändler gefixt
 - Grove Job hinzugefügt
