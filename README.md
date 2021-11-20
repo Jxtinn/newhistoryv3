@@ -4,6 +4,7 @@
 - Kleinere Bugs im F1-Menü gefixt
 - Übersetzungsfehler in diversen Jobs gefixt
 - Zeit & Preis von Whiteplate angepasst
+- Sniper im Schwarzmarkt wieder verfügbar gemacht
 
 
 **19.11.2021**
