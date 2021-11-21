@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**21.11.2021**
+- Support Warteraum nach Support Zeiten automatisiert
+
+
 **20.11.2021**
 - Kleinere Bugs im F1-Menü gefixt
 - Übersetzungsfehler in diversen Jobs gefixt
