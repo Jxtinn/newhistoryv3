@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**22.11.2021**
+- Saltychat HUD angepasst (PandaaFX)
+
+
 **21.11.2021**
 - Support Warteraum nach Support Zeiten automatisiert
 
