@@ -2,8 +2,7 @@
 
 **22.11.2021**
 - Saltychat HUD angepasst (PandaaFX)
-
-
+- Brigada Tore abschließar gemacht
 
 
 **21.11.2021**
