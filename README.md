@@ -3,6 +3,7 @@
 **22.11.2021**
 - Saltychat HUD angepasst (PandaaFX)
 - Brigada Tore abschließar gemacht
+- Meth Preise angepasst
 
 
 **21.11.2021**
