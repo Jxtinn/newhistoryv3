@@ -5,6 +5,7 @@
 - Brigada Tore abschließar gemacht
 - Meth Preise angepasst
 - Koks Preise angepasst
+- Schwarzgeldwäsche angepasst
 
 
 **21.11.2021**
