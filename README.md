@@ -6,6 +6,7 @@
 - Meth Preise angepasst
 - Koks Preise angepasst
 - Schwarzgeldwäsche angepasst
+- Labor-Settings angepasst
 
 
 **21.11.2021**
