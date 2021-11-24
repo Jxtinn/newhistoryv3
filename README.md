@@ -2,6 +2,7 @@
 
 **24.11.2021**
 - Alles außer Bilder werden gelöscht in RP-Bilder
+- Regelwerk Layout angepasst
 
 
 **22.11.2021**
