@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**24.11.2021**
+- Alles außer Bilder werden gelöscht in RP-Bilder
+
+
 **22.11.2021**
 - Saltychat HUD angepasst (PandaaFX)
 - Brigada Tore abschließar gemacht
