@@ -1,6 +1,7 @@
 # NewHistoryV2 (Dev-Log)
 
 - Impressum Layout angepasst
+- Anfängertipps Layout angepasst
 **24.11.2021**
 - Alles außer Bilder werden gelöscht in RP-Bilder
 - Regelwerk Layout angepasst
