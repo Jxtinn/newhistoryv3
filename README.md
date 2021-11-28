@@ -1,11 +1,14 @@
 # NewHistoryV2 (Dev-Log)
 
-- Impressum Layout angepasst
-- Anfängertipps Layout angepasst
+**28.11.2021**
+- Staatsfrak Cars bei Wipe automatisch eingeparkt
+
+
 **24.11.2021**
 - Alles außer Bilder werden gelöscht in RP-Bilder
 - Regelwerk Layout angepasst
-
+- Impressum Layout angepasst
+- Anfängertipps Layout angepasst
 
 **22.11.2021**
 - Saltychat HUD angepasst (PandaaFX)
