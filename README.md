@@ -2,6 +2,7 @@
 
 **28.11.2021**
 - Staatsfrak Cars bei Wipe automatisch eingeparkt
+- Weapon-Sling für FIB hinzugefügt
 
 
 **24.11.2021**
