@@ -4,6 +4,7 @@
 - Staatsfrak Cars bei Wipe automatisch eingeparkt
 - Weapon-Sling für FIB hinzugefügt
 - Taschenlampe an Waffen bleibt nun beim laufen an
+- Automatisches Nachladen der Waffe entfernt
 
 
 **24.11.2021**
