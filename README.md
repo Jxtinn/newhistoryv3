@@ -5,7 +5,7 @@
 - Weapon-Sling für FIB hinzugefügt
 - Taschenlampe an Waffen bleibt nun beim laufen an
 - Automatisches Nachladen der Waffe entfernt
-- Automatischer Weaponswitch bei leerer Waffe entfernt
+- Auto-Weaponswitch bei leerer Waffe entfernt
 
 
 **24.11.2021**
