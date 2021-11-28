@@ -6,6 +6,7 @@
 - Taschenlampe an Waffen bleibt nun beim laufen an
 - Automatisches Nachladen der Waffe entfernt
 - Auto-Weaponswitch bei leerer Waffe entfernt
+- Weitere Map von Mr.Morady hinzugefügt
 
 
 **24.11.2021**
@@ -13,6 +14,7 @@
 - Regelwerk Layout angepasst
 - Impressum Layout angepasst
 - Anfängertipps Layout angepasst
+
 
 **22.11.2021**
 - Saltychat HUD angepasst (PandaaFX)
