@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**30.11.2021**
+- SCU Fraklager hinzugefügt
+
+
 **28.11.2021**
 - Staatsfrak Cars bei Wipe automatisch eingeparkt
 - Weapon-Sling für FIB hinzugefügt
