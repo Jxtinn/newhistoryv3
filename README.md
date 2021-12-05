@@ -10,6 +10,7 @@
 - Ndrangheta Job hinzugefügt
 - Ndrangheta Job Funktionen hinzugefügt
 - Ndrangheta Job Ränge angepasst
+- Blip für xTheRedPanda hinzugefügt
 
 
 **03.12.2021**
