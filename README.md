@@ -9,6 +9,7 @@
 - The Red Circle hinzugefügt
 - Ndrangheta Job hinzugefügt
 - Ndrangheta Job Funktionen hinzugefügt
+- Ndrangheta Job Ränge angepasst
 
 
 **03.12.2021**
