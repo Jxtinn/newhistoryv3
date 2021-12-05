@@ -7,6 +7,7 @@
 - Music Bot im Support hinzugefügt (PandaaFX)
 - Xmas Loadingscreen hinzugefügt (PandaaFX)
 - The Red Circle hinzugefügt
+- Ndrangheta Job hinzugefügt
 
 
 **03.12.2021**
