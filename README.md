@@ -1,7 +1,15 @@
 # NewHistoryV2 (Dev-Log)
 
+**05.12.2021**
+- Yakuza Interioir entfernt
+- Map für xTheRedPanda hinzugefügt
+- Lost MC Map updated
+- Music Bot im Support hinzugefügt (PandaaFX)
+- Xmas Loadingscreen hinzugefügt (PandaaFX)
+
+
 **03.12.2021**
-- Ferrari Enzo Gefixt
+- Ferrari Enzo gefixt
 - Dodge Hellcat Getauscht (Patreon)
 
 **01.12.2021**
