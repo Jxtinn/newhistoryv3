@@ -8,6 +8,7 @@
 - Xmas Loadingscreen hinzugefügt (PandaaFX)
 - The Red Circle hinzugefügt
 - Ndrangheta Job hinzugefügt
+- Ndrangheta Job Funktionen hinzugefügt
 
 
 **03.12.2021**
