@@ -6,6 +6,7 @@
 - Triaden Job Ränge angepasst
 - Triaden Labor hinzugefügt
 - Triaden Fraklager hinzugefügt
+- 28 Neue Fahrzeuge hinzugefügt
 
 
 **05.12.2021**
