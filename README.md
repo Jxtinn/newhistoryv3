@@ -1,5 +1,13 @@
 # NewHistoryV2 (Dev-Log)
 
+**08.12.2021**
+- Triaden Job hinzugefügt
+- Triaden Job Funktionen hinzugefügt
+- Triaden Job Ränge angepasst
+- Triaden Labor hinzugefügt
+- Triaden Fraklager hinzugefügt
+
+
 **05.12.2021**
 - Yakuza Interioir entfernt
 - Map für xTheRedPanda hinzugefügt
