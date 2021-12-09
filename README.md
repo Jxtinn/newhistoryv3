@@ -2,7 +2,7 @@
 
 **09.12.2021**
 - E63 AMG gefixt
-
+- Black Friday Ferrari getauscht
 
 **08.12.2021**
 - Triaden Job hinzugefügt
