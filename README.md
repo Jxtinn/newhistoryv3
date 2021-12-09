@@ -1,8 +1,13 @@
 # NewHistoryV2 (Dev-Log)
 
+**10.12.2021**
+- Keybinds beim Stretcher-Script angepasst
+
+
 **09.12.2021**
 - E63 AMG gefixt
 - Black Friday Ferrari getauscht
+
 
 **08.12.2021**
 - Triaden Job hinzugefügt
@@ -30,6 +35,7 @@
 **03.12.2021**
 - Ferrari Enzo gefixt
 - Dodge Hellcat Getauscht (Patreon)
+
 
 **01.12.2021**
 - UCP entfernt
