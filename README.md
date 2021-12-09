@@ -2,6 +2,7 @@
 
 **10.12.2021**
 - Keybinds beim Stretcher-Script angepasst
+- Tuning nur noch ab Mechaniker Rang 2 möglich
 
 
 **09.12.2021**
