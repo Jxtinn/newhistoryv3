@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**09.12.2021**
+- E63 AMG gefixt
+
+
 **08.12.2021**
 - Triaden Job hinzugefügt
 - Triaden Job Funktionen hinzugefügt
