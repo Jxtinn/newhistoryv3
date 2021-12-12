@@ -4,7 +4,7 @@
 - Ladenraub mit Schneeball nicht mehr möglich
 - Tiefpark-Garage hinzugefügt
 - Neue Benny's Map hinzugefügt
-- 
+- Benny's Tuning Punkte erweitert
 
 
 **10.12.2021**
