@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**12.12.2021**
+- Ladenraub mit Schneeball nicht mehr möglich
+
+
 **10.12.2021**
 - Keybinds beim Stretcher-Script angepasst
 - Tuning nur noch ab Mechaniker Rang 2 möglich
