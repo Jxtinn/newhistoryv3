@@ -3,7 +3,8 @@
 **12.12.2021**
 - Ladenraub mit Schneeball nicht mehr möglich
 - Tiefpark-Garage hinzugefügt
-- Neue ACLS Map hinzugefügt
+- Neue Benny's Map hinzugefügt
+- 
 
 
 **10.12.2021**
