@@ -4,6 +4,7 @@
 - Logs für Schwarzmarkt hinzugefügt
 - PD Waffenkammer im SG verschoben
 - Dispatch für DOJ hinzugefügt (Telefon: 914)
+- Ferrari Enzo Angepasst
 
 
 **12.12.2021**
