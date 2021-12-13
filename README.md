@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**13.12.2021**
+- Logs für Schwarzmarkt hinzugefügt
+
+
 **12.12.2021**
 - Ladenraub mit Schneeball nicht mehr möglich
 - Tiefpark-Garage hinzugefügt
