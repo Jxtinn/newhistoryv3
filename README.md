@@ -2,6 +2,7 @@
 
 **13.12.2021**
 - Logs für Schwarzmarkt hinzugefügt
+- PD Waffenkammer im SG verschoben
 
 
 **12.12.2021**
