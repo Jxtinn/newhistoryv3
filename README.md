@@ -3,6 +3,7 @@
 **14.12.2021**
 - UI für Claim-System hinzugefügt (/claim)
 - IC-Support Tickets an Supportzeiten angepasst
+- Medic Liege Keybinds resettet
 
 
 **13.12.2021**
