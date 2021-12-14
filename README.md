@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**14.12.2021**
+- UI für Claim-System hinzugefügt (/claim)
+
+
 **13.12.2021**
 - Logs für Schwarzmarkt hinzugefügt
 - PD Waffenkammer im SG verschoben
