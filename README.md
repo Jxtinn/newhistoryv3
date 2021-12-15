@@ -5,6 +5,7 @@
 - Lost MC Garage hinzugefügt
 - Ndrangheta Garage hinzugefügt
 - Benny's Büro Schloss hinzugefügt
+- Bar Morady Schlösser hinzugefügt
 
 
 **14.12.2021**
