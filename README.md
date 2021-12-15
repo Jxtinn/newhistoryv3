@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**15.12.2021**
+- Bloods Garage hinzugefügt
+
+
 **14.12.2021**
 - UI für Claim-System hinzugefügt (/claim)
 - IC-Support Tickets an Supportzeiten angepasst
