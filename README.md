@@ -4,6 +4,7 @@
 - Bloods Garage hinzugefügt
 - Lost MC Garage hinzugefügt
 - Ndrangheta Garage hinzugefügt
+- Benny's Büro Schloss hinzugefügt
 
 
 **14.12.2021**
