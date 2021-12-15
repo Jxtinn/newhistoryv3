@@ -2,6 +2,7 @@
 
 **15.12.2021**
 - Bloods Garage hinzugefügt
+- Lost MC Garage hinzugefügt
 
 
 **14.12.2021**
