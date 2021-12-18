@@ -11,6 +11,7 @@
 - Camorra Job Add-Ons hinzugefügt
 - Camorra Tor Schlüssel hinzugefügt
 - YouTool separat auf der Map markiert
+- Schriftzüge (Labels) bei Shops angepasst
 
 **15.12.2021**
 - Bloods Garage hinzugefügt
