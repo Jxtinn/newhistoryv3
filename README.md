@@ -5,6 +5,11 @@
 - Tankstelle am MD hinzugefügt
 - Tankstelle am Benny's hinzugefügt
 - DOJ Xmas Map (Mit Easter Egg) hinzugefügt
+- Camorra Job hinzugefügt
+- Camorra Labor hinzugefügt
+- Camorra Fraklager hinzugefügt
+- Camorra Job Add-Ons hinzugefügt
+- Camorra Tor Schlüssel hinzugefügt
 
 
 **15.12.2021**
