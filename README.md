@@ -10,7 +10,7 @@
 - Camorra Fraklager hinzugefügt
 - Camorra Job Add-Ons hinzugefügt
 - Camorra Tor Schlüssel hinzugefügt
-
+- YouTool separat auf der Map markiert
 
 **15.12.2021**
 - Bloods Garage hinzugefügt
