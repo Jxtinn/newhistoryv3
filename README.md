@@ -4,6 +4,7 @@
 - Tankstelle am PD hinzugefügt
 - Tankstelle am MD hinzugefügt
 - Tankstelle am Benny's hinzugefügt
+- DOJ Xmas Map (Mit Easter Egg) hinzugefügt
 
 
 **15.12.2021**
