@@ -13,6 +13,7 @@
 - YouTool separat auf der Map markiert
 - Schriftzüge (Labels) bei Shops angepasst
 - Union Depo Heist hinzugefügt
+- FIB Schutzweste (männlich) hinzugefügt
 
 **15.12.2021**
 - Bloods Garage hinzugefügt
