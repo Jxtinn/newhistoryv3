@@ -8,6 +8,7 @@
 - Pumpgun für PD hinzugefügt
 - Pumpgun für FIB hinzugefügt
 - Schrot-Munition für PD hinzugefügt
+- Schrot-Munition für FIB hinzugefügt
 
 
 **18.12.2021**
