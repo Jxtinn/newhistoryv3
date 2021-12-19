@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**19.12.2021**
+- Neue Waffen im Schwarzmarkt hinzugefügt
+
+
 **18.12.2021**
 - Tankstelle am PD hinzugefügt
 - Tankstelle am MD hinzugefügt
@@ -14,6 +18,7 @@
 - Schriftzüge (Labels) bei Shops angepasst
 - Union Depo Heist hinzugefügt
 - FIB Schutzweste (männlich) hinzugefügt
+
 
 **15.12.2021**
 - Bloods Garage hinzugefügt
