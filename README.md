@@ -4,6 +4,7 @@
 - Neue Waffen im Schwarzmarkt hinzugefügt
 - Yakuza Interaktions -und Menü-Punkte verlegt
 - Neuer MD Helikopter hinzugefügt
+- Schwarzmarkt erneut angepasst
 
 
 **18.12.2021**
