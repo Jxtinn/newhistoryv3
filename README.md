@@ -2,6 +2,7 @@
 
 **19.12.2021**
 - Neue Waffen im Schwarzmarkt hinzugefügt
+- Yakuza Interaktions -und Menü-Punkte verlegt
 
 
 **18.12.2021**
