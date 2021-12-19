@@ -9,6 +9,7 @@
 - Pumpgun für FIB hinzugefügt
 - Schrot-Munition für PD hinzugefügt
 - Schrot-Munition für FIB hinzugefügt
+- DOJ M5 hinzugefügt
 
 
 **18.12.2021**
