@@ -7,6 +7,7 @@
 - Schwarzmarkt erneut angepasst
 - Pumpgun für PD hinzugefügt
 - Pumpgun für FIB hinzugefügt
+- Schrot-Munition für PD hinzugefügt
 
 
 **18.12.2021**
