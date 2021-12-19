@@ -5,6 +5,7 @@
 - Yakuza Interaktions -und Menü-Punkte verlegt
 - Neuer MD Helikopter hinzugefügt
 - Schwarzmarkt erneut angepasst
+- Pumpgun für PD hinzugefügt
 
 
 **18.12.2021**
