@@ -10,6 +10,7 @@
 - Schrot-Munition für PD hinzugefügt
 - Schrot-Munition für FIB hinzugefügt
 - DOJ M5 hinzugefügt
+- Koenigsegg Agera RS hinzugefügt
 
 
 **18.12.2021**
