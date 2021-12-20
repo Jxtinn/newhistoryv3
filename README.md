@@ -4,6 +4,7 @@
 - Frakshop für Camorra freigeschaltet
 - Frakshop für Yakuza freigeschaltet
 - Frakshop für DOJ freigeschaltet
+- Fehlende Bilder im Frakshop hinzugefügt
 
 
 **19.12.2021**
