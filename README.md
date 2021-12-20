@@ -10,6 +10,7 @@
 - UI von Munitionsroute angepasst
 - Schrot Munition zu Munitionsroute hinzugefügt
 - Fehlende Bilder (bekannte) im Inventar hinzugefügt
+- BMW Z4 getauscht
 
 
 **19.12.2021**
