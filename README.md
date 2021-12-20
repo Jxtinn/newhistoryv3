@@ -11,6 +11,7 @@
 - Schrot Munition zu Munitionsroute hinzugefügt
 - Fehlende Bilder (bekannte) im Inventar hinzugefügt
 - BMW Z4 getauscht
+- Umkleide für FIB hinzugefügt
 
 
 **19.12.2021**
