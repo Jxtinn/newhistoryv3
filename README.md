@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.12.2021**
+- Frakshop für Camorra freigeschaltet
+
+
 **19.12.2021**
 - Neue Waffen im Schwarzmarkt hinzugefügt
 - Yakuza Interaktions -und Menü-Punkte verlegt
