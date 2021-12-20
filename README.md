@@ -5,6 +5,8 @@
 - Frakshop für Yakuza freigeschaltet
 - Frakshop für DOJ freigeschaltet
 - Fehlende Bilder im Frakshop hinzugefügt
+- Supermarkt bei Benny's hinzugefügt
+- Ausraub-Möglichkeit bei Benny's Laden hinzugefügt
 
 
 **19.12.2021**
