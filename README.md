@@ -2,6 +2,7 @@
 
 **20.12.2021**
 - Frakshop für Camorra freigeschaltet
+- Frakshop für Yakuza freigeschaltet
 
 
 **19.12.2021**
