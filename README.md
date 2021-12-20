@@ -8,6 +8,7 @@
 - Supermarkt bei Benny's hinzugefügt
 - Ausraub-Möglichkeit bei Benny's Supermarkt hinzugefügt
 - UI von Munitionsroute angepasst
+- Schrot Munition zu Munitionsroute hinzugefügt
 
 
 **19.12.2021**
