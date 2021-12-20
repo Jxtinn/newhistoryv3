@@ -7,6 +7,7 @@
 - Fehlende Bilder im Frakshop hinzugefügt
 - Supermarkt bei Benny's hinzugefügt
 - Ausraub-Möglichkeit bei Benny's Supermarkt hinzugefügt
+- UI von Munitionsroute angepasst
 
 
 **19.12.2021**
