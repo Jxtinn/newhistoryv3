@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**21.12.2021**
+- Deafult Menu UI angepasst
+
+
 **20.12.2021**
 - Frakshop für Camorra freigeschaltet
 - Frakshop für Yakuza freigeschaltet
