@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**22.12.2021**
+- Yakuza Interieur hinzugefügt
+
+
 **21.12.2021**
 - Deafult Menu UI angepasst
 - DOJ M5 Gefixt
