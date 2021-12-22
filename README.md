@@ -2,6 +2,12 @@
 
 **22.12.2021**
 - Yakuza Interieur hinzugefügt
+- Peaky Blinders Job hinzugefügt
+- Peaky Blinders Labor hinzugefügt
+- Peaky Blinders Fraklager hinzugefügt
+- Peaky Blinders Job Add-Ons hinzugefügt
+- Peaky Blinders Garage hinzugefügt
+- Camorra Garage hinzugefügt
 
 
 **21.12.2021**
