@@ -8,6 +8,7 @@
 - Peaky Blinders Job Add-Ons hinzugefügt
 - Peaky Blinders Garage hinzugefügt
 - Camorra Garage hinzugefügt
+- Brigada Job & Add-Ons entfernt
 
 
 **21.12.2021**
