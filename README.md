@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**25.12.2021**
+- Alles außer Bilder werden nun gelöscht in #🍔|food
+
+
 **23.12.2021**
 - Tankstellen (PD,MD,ACLS) Gefixt (Experimental)
 
