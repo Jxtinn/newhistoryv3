@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**30.12.2021**
+- Schneemobile Entfernt
+
+
 **26.12.2021**
 - Alles außer Bilder werden nun gelöscht in #🤳|rl-bilder
 
