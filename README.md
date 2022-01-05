@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**05.01.2022**
+- AAC auf Version REDUX-2.6.2b geupdatet
+
+
 **04.01.2022**
 - Porsche Panamera Turbo S Angepasst
 - Audi Rs6 Angepasst
