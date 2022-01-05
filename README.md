@@ -2,6 +2,7 @@
 
 **05.01.2022**
 - AAC auf Version REDUX-2.6.2b geupdatet
+- Neue FIB-Westen hinzugefügt
 
 
 **04.01.2022**
