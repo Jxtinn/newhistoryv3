@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**06.01.2022**
+- Hover-Effekt im Inventar UI hinzugefügt
+
+
 **05.01.2022**
 - AAC auf Version REDUX-2.6.2b geupdatet
 - Neue FIB-Westen hinzugefügt
