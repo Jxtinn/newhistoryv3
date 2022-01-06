@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**07.01.2022**
+- DOJ Fahrzeug entfernt
+
+
 **06.01.2022**
 - Hover-Effekt im Inventar UI hinzugefügt
 
