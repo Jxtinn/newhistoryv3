@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**09.01.2022**
+- Black Friday Ferrari getauscht
+
+
 **07.01.2022**
 - DOJ Fahrzeug entfernt
 - Fleeca-Raub überarbeitet
