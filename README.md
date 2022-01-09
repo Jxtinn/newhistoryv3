@@ -2,6 +2,7 @@
 
 **09.01.2022**
 - Black Friday Ferrari getauscht
+- Black Friday Ferrari Distanz Bug behoben
 
 
 **07.01.2022**
