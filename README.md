@@ -3,6 +3,7 @@
 **09.01.2022**
 - Black Friday Ferrari getauscht
 - Black Friday Ferrari Distanz Bug behoben
+- Case System (/case) hinzugefügt
 
 
 **07.01.2022**
