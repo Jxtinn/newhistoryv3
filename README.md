@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**10.01.2022**
+- Neue Kleidung hinzugefügt
+
+
 **09.01.2022**
 - Black Friday Ferrari getauscht
 - Black Friday Ferrari Distanz Bug behoben
