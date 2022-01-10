@@ -4,6 +4,7 @@
 - Neue Kleidung hinzugefügt
 - Job Kleidungen angepasst
 - Knast Kleidung angepasst
+- Kleidungsladen erweitert
 
 
 **09.01.2022**
