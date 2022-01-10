@@ -3,6 +3,7 @@
 **10.01.2022**
 - Neue Kleidung hinzugefügt
 - Job Kleidungen angepasst
+- Knast Kleidung angepasst
 
 
 **09.01.2022**
