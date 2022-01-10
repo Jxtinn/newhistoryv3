@@ -2,6 +2,7 @@
 
 **10.01.2022**
 - Neue Kleidung hinzugefügt
+- Job Kleidungen angepasst
 
 
 **09.01.2022**
