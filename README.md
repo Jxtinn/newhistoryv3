@@ -8,6 +8,7 @@
 - Neuer Loadingscreen-Song hinzugefügt
 - Screen für neu Einreisende gefixt
 - Bugs bei Einreise gefixt
+- Standart Kleidung überarbeitet
 
 
 **10.01.2022**
