@@ -7,6 +7,7 @@
 - Standart Skin für neu Einreisende gesetzt
 - Neuer Loadingscreen-Song hinzugefügt
 - Screen für neu Einreisende gefixt
+- Bugs bei Einreise gefixt
 
 
 **10.01.2022**
