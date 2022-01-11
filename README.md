@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**11.01.2022**
+- Lanex400 Tuning teile gefixt
+
+
 **10.01.2022**
 - Neue Kleidung hinzugefügt
 - Job Kleidungen angepasst
