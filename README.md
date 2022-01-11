@@ -5,6 +5,7 @@
 - F1 Kleidungsauswahl gefixt (testweise)
 - Skin-Menü angepasst (Team)
 - Standart Skin für neu Einreisende gesetzt
+- Neuer Loadingscreen-Song hinzugefügt
 
 
 **10.01.2022**
