@@ -4,6 +4,7 @@
 - Lanex400 Tuning teile gefixt
 - F1 Kleidungsauswahl gefixt (testweise)
 - Skin-Menü angepasst (Team)
+- Standart Skin für neu Einreisende gesetzt
 
 
 **10.01.2022**
