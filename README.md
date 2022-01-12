@@ -1,5 +1,15 @@
 # NewHistoryV2 (Dev-Log)
 
+**12.01.2022**
+- Grove Job hinzugefügt
+- Grove Fraklager hinzugefügt
+- Grove Job Add-Ons hinzugefügt
+- Grove Frakgarage hinzugefügt
+- Yakuza Job hinzugefügt
+- Yakuza Fraklager hinzugefügt
+- Yakuza Job Add-Ons hinzugefügt
+- Yakuza Frakgarage hinzugefügt
+
 **11.01.2022**
 - Lanex400 Tuning teile gefixt
 - F1 Kleidungsauswahl gefixt (testweise)
