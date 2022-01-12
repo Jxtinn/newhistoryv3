@@ -17,6 +17,7 @@
 - Medellin-Kartell Job Add-Ons hinzugefügt
 - Medellin-Kartell Frakgarage hinzugefügt
 - Medellin-Kartell Labor hinzugefügt
+- Zweite Koks-Route hinzugefügt
 
 
 **11.01.2022**
