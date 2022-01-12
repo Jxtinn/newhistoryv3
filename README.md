@@ -11,6 +11,7 @@
 - Yakuza Frakgarage hinzugefügt
 - Yakuza Labor hinzugefügt
 - Koks Preise angepasst
+- Meth Preise angepasst
 
 
 **11.01.2022**
