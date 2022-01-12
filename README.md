@@ -12,6 +12,11 @@
 - Yakuza Labor hinzugefügt
 - Koks Preise angepasst
 - Meth Preise angepasst
+- Medellin-Kartell Job hinzugefügt
+- Medellin-Kartell Fraklager hinzugefügt
+- Medellin-Kartell Job Add-Ons hinzugefügt
+- Medellin-Kartell Frakgarage hinzugefügt
+- Medellin-Kartell Labor hinzugefügt
 
 
 **11.01.2022**
