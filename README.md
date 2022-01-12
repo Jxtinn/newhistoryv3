@@ -9,6 +9,8 @@
 - Yakuza Fraklager hinzugefügt
 - Yakuza Job Add-Ons hinzugefügt
 - Yakuza Frakgarage hinzugefügt
+- Yakuza Labor hinzugefügt
+
 
 **11.01.2022**
 - Lanex400 Tuning teile gefixt
