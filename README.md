@@ -10,6 +10,7 @@
 - Yakuza Job Add-Ons hinzugefügt
 - Yakuza Frakgarage hinzugefügt
 - Yakuza Labor hinzugefügt
+- Koks Preise angepasst
 
 
 **11.01.2022**
