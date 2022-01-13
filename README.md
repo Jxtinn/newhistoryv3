@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**13.01.2022**
+- MAS um Cayo herum hinzugefügt
+
+
 **12.01.2022**
 - Grove Job hinzugefügt
 - Grove Fraklager hinzugefügt
