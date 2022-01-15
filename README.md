@@ -2,6 +2,7 @@
 
 **15.01.2022**
 - Rauch bei Medellin Labor hinzugefügt
+- Medellin Labor verlegt
 
 
 **13.01.2022**
