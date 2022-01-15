@@ -6,6 +6,7 @@
 - Anwesen von Karle hinzugefügt
 - Anwesen von Das Jugendamt hinzugefügt
 - Anwesen von xTheRedPanda hinzugefügt
+- Anwesen von Paul Hopp hinzugefügt
 
 
 **13.01.2022**
