@@ -4,6 +4,7 @@
 - Rauch bei Medellin Labor hinzugefügt
 - Medellin Labor verlegt
 - Anwesen von Karle hinzugefügt
+- Anwesen von Das Jugendamt hinzugefügt
 
 
 **13.01.2022**
