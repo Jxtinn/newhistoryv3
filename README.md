@@ -5,6 +5,7 @@
 - Medellin Labor verlegt
 - Anwesen von Karle hinzugefügt
 - Anwesen von Das Jugendamt hinzugefügt
+- Anwesen von xTheRedPanda hinzugefügt
 
 
 **13.01.2022**
