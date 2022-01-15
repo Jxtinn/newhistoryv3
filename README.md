@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**15.01.2022**
+- Rauch bei Medellin Labor hinzugefügt
+
+
 **13.01.2022**
 - MAS um Cayo herum hinzugefügt
 
