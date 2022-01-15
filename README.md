@@ -3,6 +3,7 @@
 **15.01.2022**
 - Rauch bei Medellin Labor hinzugefügt
 - Medellin Labor verlegt
+- Anwesen von Karle hinzugefügt
 
 
 **13.01.2022**
