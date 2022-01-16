@@ -3,6 +3,7 @@
 **16.01.2022**
 - Koks Droprate an Cops angepasst
 - Koks und Meth Verkauf nur bei Cops möglich
+- Spinde im SG für Insassen und PDler hinzugefügt
 
 
 **15.01.2022**
