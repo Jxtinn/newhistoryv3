@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**16.01.2022**
+- Koks Droprate an Cops angepasst
+
+
 **15.01.2022**
 - Rauch bei Medellin Labor hinzugefügt
 - Medellin Labor verlegt
