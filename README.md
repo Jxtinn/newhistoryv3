@@ -2,6 +2,7 @@
 
 **18.01.2022**
 - BMW X6 Distance Bug behoben
+- ACLS Tahoe Distance Bug behoben
 
 
 **16.01.2022**
