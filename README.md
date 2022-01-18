@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**18.01.2022**
+- BMW X6 Distance Bug behoben
+
+
 **16.01.2022**
 - Koks Droprate an Cops angepasst
 - Koks und Meth Verkauf nur bei Cops möglich
