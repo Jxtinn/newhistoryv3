@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**19.01.2022**
+- Neue Fraklager Version hochgeladen
+
+
 **18.01.2022**
 - BMW X6 Distance Bug behoben
 - ACLS Tahoe Distance Bug behoben
