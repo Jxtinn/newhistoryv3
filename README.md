@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.01.2022**
+- Jail-Script überarbeitet
+
+
 **19.01.2022**
 - Neue Fraklager Version hochgeladen
 
