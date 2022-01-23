@@ -8,6 +8,7 @@
 - Brigada Job Add-Ons hinzugefügt
 - Brigada Frakgarage hinzugefügt
 - Brigada Labor hinzugefügt
+- Rechnungen für LSMD hinzugefügt
 
 
 **20.01.2022**
