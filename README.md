@@ -9,6 +9,7 @@
 - Brigada Frakgarage hinzugefügt
 - Brigada Labor hinzugefügt
 - Rechnungen für LSMD hinzugefügt
+- SG-Türe zum Gym geöffnet
 
 
 **20.01.2022**
