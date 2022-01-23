@@ -10,7 +10,6 @@
 - Brigada Labor hinzugefügt
 
 
-
 **20.01.2022**
 - Jail-Script überarbeitet
 - Kleidungs-Menü im State entfernt (F1)
