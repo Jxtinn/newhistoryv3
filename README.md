@@ -3,6 +3,11 @@
 **23.01.2022**
 - Tanke auf Cayo Perico hinzugefügt
 - Hangar auf Cayo Perico geöffnet
+- Brigada Job hinzugefügt
+- Brigada Fraklager hinzugefügt
+- Brigada Job Add-Ons hinzugefügt
+- Brigada Frakgarage hinzugefügt
+- Brigada Labor hinzugefügt
 
 
 **20.01.2022**
