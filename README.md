@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**23.01.2022**
+- Tanke auf Cayo Perico hinzugefügt
+
+
 **20.01.2022**
 - Jail-Script überarbeitet
 - Kleidungs-Menü im State entfernt (F1)
