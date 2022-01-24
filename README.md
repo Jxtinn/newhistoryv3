@@ -2,6 +2,7 @@
 
 **24.01.2022**
 - Bugs im Tankstellen-Script behoben
+- Bugs im Garagen-Script behoben
 
 
 **23.01.2022**
