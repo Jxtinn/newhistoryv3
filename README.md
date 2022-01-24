@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**24.01.2022**
+- Bugs im Tankstellen-Script behoben
+
+
 **23.01.2022**
 - Tanke auf Cayo Perico hinzugefügt
 - Hangar auf Cayo Perico geöffnet
