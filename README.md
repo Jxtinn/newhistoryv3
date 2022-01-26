@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**26.01.2022**
+- Car-Wipe entfernt
+
+
 **24.01.2022**
 - Bugs im Tankstellen-Script behoben
 - Bugs im Garagen-Script behoben
