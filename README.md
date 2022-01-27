@@ -1,4 +1,7 @@
 # NewHistoryV2 (Dev-Log)
+**27.01.2022**
+- Garage von Paul Hopp hinzugefügt
+
 
 **26.01.2022**
 - Car-Wipe entfernt
