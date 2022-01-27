@@ -2,6 +2,7 @@
 **27.01.2022**
 - Garage von Paul Hopp hinzugefügt
 - Schlösser von Paul Hopp hinzugefügt
+- Schlösser am Red Circle hinzugefügt
 
 
 **26.01.2022**
