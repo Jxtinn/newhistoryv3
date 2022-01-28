@@ -1,4 +1,9 @@
 # NewHistoryV2 (Dev-Log)
+
+**28.01.2022**
+- Street Labels entfernt
+
+
 **27.01.2022**
 - Garage von Paul Hopp hinzugefügt
 - Schlösser von Paul Hopp hinzugefügt
