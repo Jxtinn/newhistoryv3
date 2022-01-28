@@ -5,7 +5,7 @@
 - Car & Class Labels entfernt
 - Schutzwesten fixed (wurden nicht angezeigt)
 - Anwesen von Syntex entfernt (massive Bugs)
-- Money-Bugs im Tankstellen- und Garagenscript gefixt
+- Bugs im Tankstellen- und Garagenscript gefixt
 
 
 **27.01.2022**
