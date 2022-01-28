@@ -2,6 +2,7 @@
 
 **28.01.2022**
 - Street Labels entfernt
+- Car & Class Labels entfernt
 
 
 **27.01.2022**
