@@ -4,6 +4,7 @@
 - Street Labels entfernt
 - Car & Class Labels entfernt
 - Schutzwesten fixed (wurden nicht angezeigt)
+- Anwesen von Syntex entfernt (massive Bugs)
 
 
 **27.01.2022**
