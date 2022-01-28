@@ -3,6 +3,7 @@
 **28.01.2022**
 - Street Labels entfernt
 - Car & Class Labels entfernt
+- Schutzwesten fixed (wurden nicht angezeigt)
 
 
 **27.01.2022**
