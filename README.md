@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**29.01.2022**
+- Neues Car HUD hinzugefügt
+
+
 **28.01.2022**
 - Street Labels entfernt
 - Car & Class Labels entfernt
