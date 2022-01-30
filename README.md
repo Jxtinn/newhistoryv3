@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**30.01.2022**
+- Neues Shopsystem hinzugefügt
+
+
 **29.01.2022**
 - Neues Car HUD hinzugefügt
 
