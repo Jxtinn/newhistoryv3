@@ -2,6 +2,7 @@
 
 **30.01.2022**
 - Neues Shopsystem hinzugefügt
+- Shops gefixt
 
 
 **29.01.2022**
