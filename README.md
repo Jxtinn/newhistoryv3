@@ -7,6 +7,7 @@
 - Jail-Farm gefixt
 - Carry-Bug im Jail gefixt
 - Dono-Garagen Blips entfernt
+- Ndrangheta Frakautos hinzugefügt
 
 
 **30.01.2022**
