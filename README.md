@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**31.01.2022**
+- Casy-System gefixt
+
+
 **30.01.2022**
 - Neues Shopsystem hinzugefügt
 - Shops gefixt
