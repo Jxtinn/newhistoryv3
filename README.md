@@ -5,6 +5,7 @@
 - Peaky Blinders Skinshop hinzugefügt
 - Brigada Frakgarage hinzugefügt
 - Jail-Farm gefixt
+- Carry-Bug im Jail gefixt
 
 
 **30.01.2022**
