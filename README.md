@@ -1,7 +1,8 @@
 # NewHistoryV2 (Dev-Log)
 
 **31.01.2022**
-- Casy-System gefixt
+- Case-System gefixt
+- Peaky Blinders Skinshop hinzugefügt
 
 
 **30.01.2022**
