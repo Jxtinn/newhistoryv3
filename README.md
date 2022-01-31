@@ -6,6 +6,7 @@
 - Brigada Frakgarage hinzugefügt
 - Jail-Farm gefixt
 - Carry-Bug im Jail gefixt
+- Dono-Garagen Blips entfernt
 
 
 **30.01.2022**
