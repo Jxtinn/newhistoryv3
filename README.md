@@ -3,6 +3,7 @@
 **31.01.2022**
 - Case-System gefixt
 - Peaky Blinders Skinshop hinzugefügt
+- Brigada Frakgarage hinzugefügt
 
 
 **30.01.2022**
