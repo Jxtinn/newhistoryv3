@@ -8,6 +8,7 @@
 - Carry-Bug im Jail gefixt
 - Dono-Garagen Blips entfernt
 - Ndrangheta Frakautos hinzugefügt
+- Blips von Garagen gefixt
 
 
 **30.01.2022**
