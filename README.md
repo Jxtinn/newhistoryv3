@@ -6,6 +6,7 @@
 - Blips für Pacific Bank hinzugefügt
 - Animation beim Items geben hinzugefügt
 - FiveM Logo updated
+- FiveM Banner updated
 
 
 **31.01.2022**
