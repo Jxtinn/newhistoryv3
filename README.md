@@ -7,6 +7,7 @@
 - Animation beim Items geben hinzugefügt
 - FiveM Logo updated
 - FiveM Banner updated
+- FiveM Server Details updated
 
 
 **31.01.2022**
