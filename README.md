@@ -1,5 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
+**01.02.2022**
+- Blips von Garagen gefixt
+- Blips für Fleeca Banken hinzugefügt
+- Blips für Pacific Bank hinzugefügt
+- Animation beim Items geben hinzugefügt
+
+
 **31.01.2022**
 - Case-System gefixt
 - Peaky Blinders Skinshop hinzugefügt
@@ -8,10 +15,6 @@
 - Carry-Bug im Jail gefixt
 - Dono-Garagen Blips entfernt
 - Ndrangheta Frakautos hinzugefügt
-- Blips von Garagen gefixt
-- Blips für Fleeca Banken hinzugefügt
-- Blips für Pacific Bank hinzugefügt
-- Animation beim Items geben hinzugefügt
 
 
 **30.01.2022**
