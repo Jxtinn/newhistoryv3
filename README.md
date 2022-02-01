@@ -9,6 +9,7 @@
 - Dono-Garagen Blips entfernt
 - Ndrangheta Frakautos hinzugefügt
 - Blips von Garagen gefixt
+- Blips für Fleeca Banken hinzugefügt
 
 
 **30.01.2022**
