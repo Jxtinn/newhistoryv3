@@ -11,6 +11,7 @@
 - Blips von Garagen gefixt
 - Blips für Fleeca Banken hinzugefügt
 - Blips für Pacific Bank hinzugefügt
+- Animation beim Items geben hinzugefügt
 
 
 **30.01.2022**
