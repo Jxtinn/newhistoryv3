@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**02.02.2022**
+- Inventar UI überarbeitet (Sounds)
+
+
 **01.02.2022**
 - Blips von Garagen gefixt
 - Blips für Fleeca Banken hinzugefügt
