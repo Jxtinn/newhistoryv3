@@ -2,6 +2,7 @@
 
 **02.02.2022**
 - Inventar UI überarbeitet (Sounds)
+- Saltychat UI überarbeitet (Design)
 
 
 **01.02.2022**
