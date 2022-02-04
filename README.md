@@ -1,5 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
+**04.02.2022**
+- Bloods Job hinzugefügt
+- Bloods Fraklager hinzugefügt
+- Bloods Job Add-Ons hinzugefügt
+- Bloods Frakgarage hinzugefügt
+
+
 **02.02.2022**
 - Inventar UI überarbeitet (Sounds)
 - Saltychat UI überarbeitet (Design)
