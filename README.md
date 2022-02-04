@@ -7,6 +7,7 @@
 - Bloods Frakgarage hinzugefügt
 
 
+
 **02.02.2022**
 - Inventar UI überarbeitet (Sounds)
 - Saltychat UI überarbeitet (Design)
