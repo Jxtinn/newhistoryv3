@@ -5,7 +5,7 @@
 - XP bei Revive für Medics hinzugefügt
 - XP bei Inhaftierung für Cops hinzugefügt
 - Cinema-Mode hinzugefügt (/cinema)
-- Stretcher Script Keybinds gefixt
+- Stretcher-Script Keybinds gefixt
 
 
 **04.02.2022**
