@@ -6,6 +6,7 @@
 - XP bei Inhaftierung für Cops hinzugefügt
 - Cinema-Mode hinzugefügt (/cinema)
 - Stretcher-Script Keybinds gefixt
+- test
 
 
 **04.02.2022**
