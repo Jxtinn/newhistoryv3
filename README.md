@@ -4,6 +4,7 @@
 - XP-System hinzugefügt (/xp)
 - XP bei Revive für Medics hinzugefügt
 - XP bei Inhaftierung für Cops hinzugefügt
+- Cinema-Mode hinzugefügt (/cinema)
 
 
 **04.02.2022**
