@@ -2,6 +2,7 @@
 
 **05.02.2022**
 - XP-System hinzugefügt (/xp)
+- XP bei Revive für Medics hinzugefügt
 
 
 **04.02.2022**
