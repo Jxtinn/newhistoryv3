@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**05.02.2022**
+- XP-System hinzugefügt (/xp)
+
+
 **04.02.2022**
 - Bloods Job hinzugefügt
 - Bloods Fraklager hinzugefügt
