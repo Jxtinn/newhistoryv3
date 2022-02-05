@@ -3,6 +3,7 @@
 **05.02.2022**
 - XP-System hinzugefügt (/xp)
 - XP bei Revive für Medics hinzugefügt
+- XP bei Inhaftierung für Cops hinzugefügt
 
 
 **04.02.2022**
