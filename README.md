@@ -5,6 +5,7 @@
 - [+] XP bei Kill
 - [+] XP beim Reparieren von Autos (Mechaniker)
 - Carpacks merged
+- Neue Garagen hinzugefügt
 
 
 **05.02.2022**
