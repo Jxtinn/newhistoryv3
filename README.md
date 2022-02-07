@@ -3,6 +3,7 @@
 **07.02.2022**
 - [-] XP beim Tod
 - [+] XP bei Kill
+- [+] XP beim Reparieren von Autos (Mechaniker)
 
 
 **05.02.2022**
