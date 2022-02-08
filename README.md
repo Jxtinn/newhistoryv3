@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**08.02.2022**
+- Garagen Bilder resized
+
+
 **07.02.2022**
 - [-] XP beim Tod
 - [+] XP bei Kill
