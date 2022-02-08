@@ -2,6 +2,7 @@
 
 **08.02.2022**
 - Garagen Bilder resized
+- Abschlepphof fixxed (Fahrzeug ging kaputt)
 
 
 **07.02.2022**
