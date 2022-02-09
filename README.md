@@ -10,9 +10,9 @@
 
 
 **07.02.2022**
-- [-] XP beim Tod
-- [+] XP bei Kill
-- [+] XP beim Reparieren von Autos (Mechaniker)
+- XP beim Tod entfernt
+- XP bei Kill hinzugefügt
+- XP beim Reparieren von Autos hinzugefügt (Mechaniker)
 - Carpacks merged
 - Neue Garagen hinzugefügt
 
