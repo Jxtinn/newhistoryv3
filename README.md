@@ -1,8 +1,12 @@
 # NewHistoryV2 (Dev-Log)
 
+**09.02.2022**
+- Autos nach Restart wieder automatisch eingeparkt
+
+
 **08.02.2022**
 - Garagen Bilder resized
-- Abschlepphof fixxed (Fahrzeug ging kaputt)
+- Abschlepphof gefixt (Fahrzeug ging kaputt)
 
 
 **07.02.2022**
