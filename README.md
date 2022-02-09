@@ -2,6 +2,7 @@
 
 **09.02.2022**
 - Autos nach Restart wieder automatisch eingeparkt
+- Garagen-UI resolution angepasst
 
 
 **08.02.2022**
