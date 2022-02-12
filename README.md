@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**12.02.2022**
+- Juwelierraub gefixt
+
+
 **09.02.2022**
 - Autos nach Restart wieder automatisch eingeparkt
 - Garagen-UI resolution angepasst
