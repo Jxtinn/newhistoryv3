@@ -5,6 +5,7 @@
 - Grove Add-On Map hinzugefügt
 - Grove Zäune abgeschlossen
 - FIB Jugular hinzugefügt
+- Diverese Bugs im Handy fixed
 
 
 **12.02.2022**
