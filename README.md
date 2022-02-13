@@ -6,6 +6,7 @@
 - Grove Zäune abgeschlossen
 - FIB Jugular hinzugefügt
 - Diverese Bugs im Handy fixed
+- Lifeinvader wird nun bei allen angezeigt
 
 
 **12.02.2022**
