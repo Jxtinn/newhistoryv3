@@ -3,6 +3,7 @@
 **13.02.2022**
 - Neues Handy hinzugefügt
 - Grove Add-On Map hinzugefügt
+- Grove Zäune abgeschlossen
 
 
 **12.02.2022**
