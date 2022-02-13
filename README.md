@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**13.02.2022**
+- Neues Handy hinzugefügt
+
+
 **12.02.2022**
 - Juwelierraub gefixt
 
