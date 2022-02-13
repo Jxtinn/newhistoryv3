@@ -7,6 +7,7 @@
 - FIB Jugular hinzugefügt
 - Diverese Bugs im Handy fixed
 - Lifeinvader wird nun bei allen angezeigt
+- Medellin 2. Garage hinzugefügt
 
 
 **12.02.2022**
