@@ -4,6 +4,7 @@
 - Neues Handy hinzugefügt
 - Grove Add-On Map hinzugefügt
 - Grove Zäune abgeschlossen
+- FIB Jugular hinzugefügt
 
 
 **12.02.2022**
