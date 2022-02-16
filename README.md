@@ -2,6 +2,7 @@
 
 **16.02.2022**
 - Interakives Trucker-System hinzugefügt
+- Add-On LKW hinzugefügt
 
 
 **13.02.2022**
