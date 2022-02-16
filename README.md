@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**16.02.2022**
+- Interakives Trucker-System hinzugefügt
+
+
 **13.02.2022**
 - Neues Handy hinzugefügt
 - Grove Add-On Map hinzugefügt
