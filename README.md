@@ -4,6 +4,7 @@
 - LostMC Job gestartet
 - LCN Job gestartet
 - LostMC Map entfernt
+- DOJ Gehälter angepasst
 
 
 **17.02.2022**
