@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**18.02.2022**
+- LostMC Job gestartet
+
+
 **17.02.2022**
 - Actros LKW Distanz Bug behoben
 
