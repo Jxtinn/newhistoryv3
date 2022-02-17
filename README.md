@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**17.02.2022**
+- Actros LKW Distanz Bug behoben
+
+
 **16.02.2022**
 - Interakives Trucker-System hinzugefügt
 - Add-On LKW hinzugefügt
