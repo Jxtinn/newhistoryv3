@@ -3,6 +3,7 @@
 **18.02.2022**
 - LostMC Job gestartet
 - LCN Job gestartet
+- LostMC Map entfernt
 
 
 **17.02.2022**
