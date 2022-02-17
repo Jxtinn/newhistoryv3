@@ -2,6 +2,7 @@
 
 **18.02.2022**
 - LostMC Job gestartet
+- LCN Job gestartet
 
 
 **17.02.2022**
