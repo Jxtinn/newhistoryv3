@@ -6,6 +6,7 @@
 - LostMC Map entfernt
 - DOJ Gehälter angepasst
 - Lost MC Fraklager hinzugefügt
+- LCN Fraklager hinzugefügt
 
 
 **17.02.2022**
