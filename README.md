@@ -7,6 +7,7 @@
 - DOJ Gehälter angepasst
 - Lost MC Fraklager hinzugefügt
 - LCN Fraklager hinzugefügt
+- LCN Labor hinzugefügt
 
 
 **17.02.2022**
