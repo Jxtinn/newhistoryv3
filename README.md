@@ -3,6 +3,7 @@
 **19.02.2022**
 - Gamebuild gedowngraded (2372) / Mapbugs gefixt
 - Größere Auswahl an Essen und Trinken in Shops
+- Elegy Retro Custom im Vanillashop hinzugefügt
 
 
 **18.02.2022**
