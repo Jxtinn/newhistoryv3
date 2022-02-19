@@ -7,6 +7,7 @@
 - Angelutensilien im YouTool hinzugefügt
 - FIB Jugular im Frakshop hinzugefügt
 - Labor-Raub gefixt
+- Dienstausweise für LSPD hinzugefügt
 
 
 **18.02.2022**
