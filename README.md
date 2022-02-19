@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**19.02.2022**
+- Gamebuild gedowngraded (2372) / Mapbugs gefixt
+
+
 **18.02.2022**
 - LostMC Job gestartet
 - LCN Job gestartet
