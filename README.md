@@ -6,6 +6,7 @@
 - Elegy Retro Custom im Vanillashop hinzugefügt
 - Angelutensilien im YouTool hinzugefügt
 - FIB Jugular im Frakshop hinzugefügt
+- Labor-Raub gefixt
 
 
 **18.02.2022**
