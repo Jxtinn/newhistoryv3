@@ -5,6 +5,7 @@
 - Größere Auswahl an Essen und Trinken in Shops
 - Elegy Retro Custom im Vanillashop hinzugefügt
 - Angelutensilien im YouTool hinzugefügt
+- FIB Jugular im Frakshop hinzugefügt
 
 
 **18.02.2022**
