@@ -4,6 +4,7 @@
 - Gamebuild gedowngraded (2372) / Mapbugs gefixt
 - Größere Auswahl an Essen und Trinken in Shops
 - Elegy Retro Custom im Vanillashop hinzugefügt
+- Angelutensilien im YouTool hinzugefügt
 
 
 **18.02.2022**
