@@ -2,6 +2,7 @@
 
 **19.02.2022**
 - Gamebuild gedowngraded (2372) / Mapbugs gefixt
+- Größere Auswahl an Essen und Trinken in Shops
 
 
 **18.02.2022**
