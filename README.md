@@ -1,5 +1,9 @@
 # NewHistoryV2 (Dev-Log)
 
+**20.02.2022**
+- Animation + Lichter beim Auf -und Abschließen hinzugefügt
+
+
 **19.02.2022**
 - Gamebuild gedowngraded (2372) / Mapbugs gefixt
 - Größere Auswahl an Essen und Trinken in Shops
