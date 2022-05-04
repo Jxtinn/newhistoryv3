@@ -1,11 +1,12 @@
-# NewHistoryV3 Dev-Logs
+# NewHistory V3 Dev-Logs
 
 **04.05.2022**
 - Started NewHistoryV3 Dev-Log
+- Ticket-System hinzugefügt
 
 ---
 
-**NewHistoryV2 Archive**
+**NewHistory V2 Archive**
 
 **20.02.2022**
 - Animation + Lichter beim Auf -und Abschließen hinzugefügt
