@@ -1,8 +1,11 @@
-# NewHistoryV2 (Closed Archive)
+# NewHistoryV3 Dev-Logs
 
-See you soon.
+**NewHistoryV3**
+- Started new devlog
 
 ---
+
+**NewHistoryV2 Archive**
 
 **20.02.2022**
 - Animation + Lichter beim Auf -und Abschließen hinzugefügt
