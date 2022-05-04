@@ -1,7 +1,7 @@
 # NewHistoryV3 Dev-Logs
 
 **NewHistoryV3**
-- Started new devlog
+- Started NewHistoryV3 Dev-Log
 
 ---
 
