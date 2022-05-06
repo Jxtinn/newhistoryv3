@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**06.05.2022**
+- PD-Heli Wärmebildkamera entfernt
+
+
 **04.05.2022**
 - Started NewHistoryV3 Dev-Log
 - Ticket-System hinzugefügt
