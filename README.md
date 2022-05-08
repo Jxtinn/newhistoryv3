@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**08.05.2022**
+- Manuelles Nachladen entfernt
+
+
 **06.05.2022**
 - PD-Heli Wärmebildkamera entfernt
 - Taser-Effekt wie auf V1 hinzugefügt
