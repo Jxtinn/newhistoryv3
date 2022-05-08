@@ -2,6 +2,7 @@
 
 **08.05.2022**
 - Manuelles Nachladen entfernt
+- Klappmesser von der Blacklist entfernt
 
 
 **06.05.2022**
