@@ -3,6 +3,7 @@
 **09.05.2022**
 - Wald am SG entfernt
 - Baustelle auf der PD Brücke entfernt
+- Blitzer hinzugefügt
 
 
 **08.05.2022**
