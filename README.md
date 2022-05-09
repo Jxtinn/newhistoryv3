@@ -5,6 +5,7 @@
 - Baustelle auf der PD Brücke entfernt
 - Blitzer hinzugefügt
 - Checkpoints an den Highways hinzugefügt
+- Sozialstunden im SG hinzugefügt
 
 
 **08.05.2022**
