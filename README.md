@@ -2,6 +2,7 @@
 
 **09.05.2022**
 - Wald am SG entfernt
+- Baustelle auf der PD Brücke entfernt
 
 
 **08.05.2022**
