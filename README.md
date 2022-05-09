@@ -4,6 +4,7 @@
 - Wald am SG entfernt
 - Baustelle auf der PD Brücke entfernt
 - Blitzer hinzugefügt
+- Checkpoints an den Highways hinzugefügt
 
 
 **08.05.2022**
