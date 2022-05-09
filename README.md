@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**09.05.2022**
+- Wald am SG entfernt
+
+
 **08.05.2022**
 - Manuelles Nachladen entfernt
 - Klappmesser von der Blacklist entfernt
