@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**10.05.2022**
+- Kampfunfähigkeit nach Revive hinzugefügt 
+
+
 **09.05.2022**
 - Wald am SG entfernt
 - Baustelle auf der PD Brücke entfernt
