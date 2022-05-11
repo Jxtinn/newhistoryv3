@@ -1,7 +1,7 @@
 # NewHistory V3 Dev-Logs
 
 **11.05.2022**
-- Fernglas hinzugefügt
+- Fernglas hinzugefügt 
 
 
 **10.05.2022**
