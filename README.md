@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**12.05.2022**
+- Mobile Jobads für Staatsfraktionen hinzugefügt 
+
+
 **11.05.2022**
 - Fernglas hinzugefügt 
 
