@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**13.05.2022**
+- Mehr Auswahl an Verbrauchsitems hinzugefügt 
+
+
 **12.05.2022**
 - Mobile Jobads für Staatsfraktionen hinzugefügt 
 
