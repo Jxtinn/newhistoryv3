@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**18.05.2022**
+- Logging-System Overhaul (Administrativ) 
+
+
 **13.05.2022**
 - Mehr Auswahl an Verbrauchsitems hinzugefügt 
 
