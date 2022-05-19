@@ -3,6 +3,7 @@
 **19.05.2022**
 - Dynamisches Skill-System hinzugefügt
 - GYM mit Skill-System-Connection hinzugefügt
+- Waffenroute entfernt
 
 
 **18.05.2022**
