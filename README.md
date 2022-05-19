@@ -4,6 +4,7 @@
 - Dynamisches Skill-System hinzugefügt
 - GYM mit Skill-System-Connection hinzugefügt
 - Waffenroute entfernt
+- Schwarzmarkt überarbeitet
 
 
 **18.05.2022**
