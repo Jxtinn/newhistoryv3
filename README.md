@@ -7,6 +7,7 @@
 - Schwarzmarkt überarbeitet
 - Ammunation Preise angepasst
 - Einzelnes Funken deaktiviert
+- Westenroute gefixt
 
 
 **18.05.2022**
