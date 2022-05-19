@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**19.05.2022**
+- Dynamisches Skill-System hinzugefügt
+
+
 **18.05.2022**
 - Logging-System Overhaul (Administrativ) 
 
