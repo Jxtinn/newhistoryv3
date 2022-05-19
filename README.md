@@ -5,6 +5,7 @@
 - GYM mit Skill-System-Connection hinzugefügt
 - Waffenroute entfernt
 - Schwarzmarkt überarbeitet
+- Ammunation Preise angepasst
 
 
 **18.05.2022**
