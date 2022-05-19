@@ -6,6 +6,7 @@
 - Waffenroute entfernt
 - Schwarzmarkt überarbeitet
 - Ammunation Preise angepasst
+- Einzelnes Funken deaktiviert
 
 
 **18.05.2022**
