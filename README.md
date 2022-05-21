@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**21.05.2022**
+- Fesseln für Zivilisten hinzugefügt
+
+
 **19.05.2022**
 - Dynamisches Skill-System hinzugefügt
 - GYM mit Skill-System-Connection hinzugefügt
