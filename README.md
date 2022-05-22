@@ -3,6 +3,7 @@
 **22.05.2022**
 - Fahrzeuge können nun mit Person im Auto abgeschlossen werden
 - Slots hinzugefügt
+- Blackjack hinzugefügt
 
 
 **21.05.2022**
