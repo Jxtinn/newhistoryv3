@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**22.05.2022**
+- Fahrzeuge können nun mit Person im Auto abgeschlossen werden
+
+
 **21.05.2022**
 - Fesseln für Zivilisten hinzugefügt
 
