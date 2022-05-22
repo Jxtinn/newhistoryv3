@@ -4,6 +4,7 @@
 - Fahrzeuge können nun mit Person im Auto abgeschlossen werden
 - Slots hinzugefügt
 - Blackjack hinzugefügt
+- Casino Map hinzugefügt
 
 
 **21.05.2022**
