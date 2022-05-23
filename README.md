@@ -3,7 +3,7 @@
 **23.05.2022**
 - Glücksrad im Casino hinzugefügt 
 - ATMS am Casino hinzugefügt 
-- Anti VDM und Troll Barrieren am Casino hinzugefügt
+- Anti VDM und Troll Barrieren am Casino hinzugefügt 
 
 
 **22.05.2022**
