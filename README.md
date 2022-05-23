@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**23.05.2022**
+- Glücksrad im Casino hinzugefügt
+
+
 **22.05.2022**
 - Fahrzeuge können nun mit Person im Auto abgeschlossen werden
 - Slots hinzugefügt
