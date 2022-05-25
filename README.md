@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**25.05.2022**
+- Casino fertiggestellt
+
+
 **23.05.2022**
 - Glücksrad im Casino hinzugefügt 
 - ATMS am Casino hinzugefügt 
