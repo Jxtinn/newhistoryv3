@@ -5,6 +5,7 @@
 - Flugzeugshop hinzugefügt
 - SG Map erweitert & verbessert (xTheRedPanda)
 - Skaterpark hinzugefügt (xTheRedPanda)
+- Schöne, fette Baustelle am MP hinzugefügt (xTheRedPanda)
 
 
 **25.05.2022**
