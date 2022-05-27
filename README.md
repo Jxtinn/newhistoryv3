@@ -3,6 +3,7 @@
 **27.05.2022**
 - Minigolf hinzugefügt
 - Flugzeugshop hinzugefügt
+- SG Map erweitert & verbessert (xTheRedPanda)
 
 
 **25.05.2022**
