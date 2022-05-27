@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**27.05.2022**
+- Minigolf hinzugefügt
+
+
 **25.05.2022**
 - Casino fertiggestellt
 
