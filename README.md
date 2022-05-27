@@ -2,6 +2,7 @@
 
 **27.05.2022**
 - Minigolf hinzugefügt
+- Flugzeugshop hinzugefügt
 
 
 **25.05.2022**
