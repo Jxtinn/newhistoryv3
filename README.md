@@ -7,6 +7,7 @@
 - Rednecks Job hinzugefügt
 - Ballas Job hinzugefügt
 - Bloods Job hinzugefügt
+- Sons of Anarchy Job hinzugefügt
 
 
 **27.05.2022**
