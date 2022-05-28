@@ -4,6 +4,7 @@
 - Brigada Job hinzugefügt
 - Vagos Job hinzugefügt
 - Triaden Job hinzugefügt
+- Rednecks Job hinzugefügt
 
 
 **27.05.2022**
