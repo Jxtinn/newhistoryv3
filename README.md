@@ -5,6 +5,7 @@
 - Vagos Job hinzugefügt
 - Triaden Job hinzugefügt
 - Rednecks Job hinzugefügt
+- Ballas Job hinzugefügt
 
 
 **27.05.2022**
