@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**29.05.2022**
+- Brigada Job hinzugefügt
+
+
 **27.05.2022**
 - Minigolf hinzugefügt
 - Flugzeugshop hinzugefügt
