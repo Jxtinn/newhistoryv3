@@ -2,6 +2,7 @@
 
 **29.05.2022**
 - Brigada Job hinzugefügt
+- Vagos Job hinzugefügt
 
 
 **27.05.2022**
