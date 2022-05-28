@@ -6,6 +6,7 @@
 - Triaden Job hinzugefügt
 - Rednecks Job hinzugefügt
 - Ballas Job hinzugefügt
+- Bloods Job hinzugefügt
 
 
 **27.05.2022**
