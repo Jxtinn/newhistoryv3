@@ -11,7 +11,8 @@
 - Rednecks Fraklager hinzugefügt
 - Ballas F1-Menü hinzugefügt
 - Ballas Fraklager hinzugefügt
-
+- Bloods F1-Menü hinzugefügt
+- Bloods Fraklager hinzugefügt
 
 
 **29.05.2022**
