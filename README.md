@@ -3,6 +3,8 @@
 **29.05.2022**
 - Brigada F1-Menü hinzugefügt
 - Brigada Fraklager hinzugefügt
+- Vagos F1-Menü hinzugefügt
+- Vagos Fraklager hinzugefügt
 
 
 **29.05.2022**
