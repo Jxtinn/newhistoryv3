@@ -19,6 +19,7 @@
 - Triaden Labor hinzugefügt
 - Rednecks Labor hinzugefügt
 - Verkaufspunkt am PDM entfernt
+- Tebex Shop vollständig automatisiert
 
 
 **29.05.2022**
