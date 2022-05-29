@@ -18,6 +18,7 @@
 - Brigada Labor hinzugefügt
 - Triaden Labor hinzugefügt
 - Rednecks Labor hinzugefügt
+- Verkaufspunkt am PDM entfernt
 
 
 **29.05.2022**
