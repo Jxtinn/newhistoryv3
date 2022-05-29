@@ -15,6 +15,7 @@
 - Bloods Fraklager hinzugefügt
 - Sons of Anarchy F1-Menü hinzugefügt
 - Sons of Anarchy Fraklager hinzugefügt
+- Brigada Labor hinzugefügt
 
 
 **29.05.2022**
