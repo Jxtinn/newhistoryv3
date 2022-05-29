@@ -17,6 +17,7 @@
 - Sons of Anarchy Fraklager hinzugefügt
 - Brigada Labor hinzugefügt
 - Triaden Labor hinzugefügt
+- Rednecks Labor hinzugefügt
 
 
 **29.05.2022**
