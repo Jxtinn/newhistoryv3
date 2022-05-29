@@ -5,7 +5,8 @@
 - Brigada Fraklager hinzugefügt
 - Vagos F1-Menü hinzugefügt
 - Vagos Fraklager hinzugefügt
-
+- Triaden F1-Menü hinzugefügt
+- Triaden Fraklager hinzugefügt
 
 
 **29.05.2022**
