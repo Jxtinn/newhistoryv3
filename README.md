@@ -13,7 +13,8 @@
 - Ballas Fraklager hinzugefügt
 - Bloods F1-Menü hinzugefügt
 - Bloods Fraklager hinzugefügt
-
+- Sons of Anarchy F1-Menü hinzugefügt
+- Sons of Anarchy Fraklager hinzugefügt
 
 
 **29.05.2022**
