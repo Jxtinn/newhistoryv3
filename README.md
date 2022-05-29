@@ -2,6 +2,7 @@
 
 **29.05.2022**
 - Brigada F1-Menü hinzugefügt
+- Brigada Fraklager hinzugefügt
 
 
 **29.05.2022**
