@@ -1,6 +1,10 @@
 # NewHistory V3 Dev-Logs
 
 **29.05.2022**
+- Brigada F1-Menü hinzugefügt
+
+
+**29.05.2022**
 - Brigada Job hinzugefügt
 - Vagos Job hinzugefügt
 - Triaden Job hinzugefügt
