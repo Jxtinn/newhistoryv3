@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**30.05.2022**
+- Minigolf hinzugefügt
+
+
 **29.05.2022**
 - Brigada F1-Menü hinzugefügt
 - Brigada Fraklager hinzugefügt
