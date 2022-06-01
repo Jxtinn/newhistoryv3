@@ -2,6 +2,7 @@
 
 **01.06.2022**
 - https://newhistory.cc/cars/ fertiggestellt
+- Claim-System mit Autoliste verknüpft
 
 
 **30.05.2022**
