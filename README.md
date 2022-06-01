@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**01.06.2022**
+- https://newhistory.cc/cars/ fertiggestellt
+
+
 **30.05.2022**
 - Minigolf hinzugefügt
 
