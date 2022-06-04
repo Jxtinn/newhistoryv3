@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**04.06.2022**
+- Frak Auto Shops fertiggestellt (draaxz)
+
+
 **01.06.2022**
 - https://newhistory.cc/cars/ fertiggestellt
 - Claim-System mit Autoliste verknüpft
