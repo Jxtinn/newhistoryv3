@@ -2,6 +2,7 @@
 
 **04.06.2022**
 - Frak Auto Shops fertiggestellt (draaxz)
+- DB-Reset durchgeführt
 
 
 **01.06.2022**
