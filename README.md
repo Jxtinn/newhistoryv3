@@ -4,6 +4,7 @@
 - Flugzeug Shop fertiggestellt
 - Minigolf fertiggestellt
 - GYM & Skill-System fertiggestellt
+- Einreise überarbeitet
 
 
 **04.06.2022**
