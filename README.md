@@ -9,6 +9,7 @@
 - Casino F1-Menü hinzugefügt
 - Casino Fraklager hinzugefügt
 - Casino Frakshop fertiggestellt
+- Weed, Holz & Eisen Verarbeiter entfernt
 
 
 **04.06.2022**
