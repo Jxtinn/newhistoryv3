@@ -5,6 +5,7 @@
 - Minigolf fertiggestellt
 - GYM & Skill-System fertiggestellt
 - Einreise überarbeitet
+- Casino Job hinzufügt
 
 
 **04.06.2022**
