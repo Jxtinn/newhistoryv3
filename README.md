@@ -10,6 +10,7 @@
 - Casino Fraklager hinzugefügt
 - Casino Frakshop fertiggestellt
 - Weed, Holz & Eisen Verarbeiter entfernt
+  (werden zu Release überarbeitet)
 
 
 **04.06.2022**
