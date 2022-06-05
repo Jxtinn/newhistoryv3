@@ -11,6 +11,7 @@
 - Casino Frakshop fertiggestellt
 - Weed, Holz & Eisen Verarbeiter entfernt
   (werden zu Release überarbeitet)
+- Schwarzgeldwäsche überarbeitet  
 
 
 **04.06.2022**
