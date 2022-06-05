@@ -3,6 +3,7 @@
 **05.06.2022**
 - Flugzeug Shop fertiggestellt
 - Minigolf fertiggestellt
+- GYM & Skill-System fertiggestellt
 
 
 **04.06.2022**
