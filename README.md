@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**05.06.2022**
+- Flugzeug Shop fertiggestellt
+
+
 **04.06.2022**
 - Frak Auto Shops fertiggestellt (draaxz)
 - DB-Reset durchgeführt
