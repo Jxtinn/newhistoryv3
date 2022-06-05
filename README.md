@@ -6,6 +6,8 @@
 - GYM & Skill-System fertiggestellt
 - Einreise überarbeitet
 - Casino Job hinzufügt
+- Casino F1-Menü hinzugefügt
+- Casino Fraklager hinzugefügt
 
 
 **04.06.2022**
