@@ -8,7 +8,7 @@
 - Casino Job hinzufügt
 - Casino F1-Menü hinzugefügt
 - Casino Fraklager hinzugefügt
-
+- Casino Frakshop fertiggestellt
 
 
 **04.06.2022**
