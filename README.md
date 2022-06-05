@@ -12,6 +12,7 @@
 - Weed, Holz & Eisen Verarbeiter entfernt
   (werden zu Release überarbeitet)
 - Schwarzgeldwäsche überarbeitet  
+- Startgeld für Beta Tester auf 2 Mio erhöht
 
 
 **04.06.2022**
