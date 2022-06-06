@@ -5,6 +5,7 @@
 - Verkäufer in Shops hinzugefügt
 - Glücksrad Blackscreen gefixt
 - ATM am PDM hinzugefügt
+- Helikopter Explosion (Helishop) gefixt
 
 
 **05.06.2022**
