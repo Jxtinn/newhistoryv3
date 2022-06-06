@@ -7,6 +7,7 @@
 - ATM am PDM hinzugefügt
 - Helikopter Explosion (Helishop) gefixt
 - FFA Fehlbanns gefixt
+- Fahrschule Preisfehler angepasst
 
 
 **05.06.2022**
