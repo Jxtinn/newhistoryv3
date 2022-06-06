@@ -4,6 +4,7 @@
 - Minigolf Flackern gefixt
 - Verkäufer in Shops hinzugefügt
 - Glücksrad Blackscreen gefixt
+- ATM am PDM hinzugefügt
 
 
 **05.06.2022**
