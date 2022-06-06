@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**06.06.2022**
+- Minigolf Flackern gefixt
+
+
 **05.06.2022**
 - Flugzeug Shop fertiggestellt
 - Minigolf fertiggestellt
