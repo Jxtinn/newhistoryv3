@@ -2,6 +2,7 @@
 
 **06.06.2022**
 - Minigolf Flackern gefixt
+- Verkäufer in Shops hinzugefügt
 
 
 **05.06.2022**
