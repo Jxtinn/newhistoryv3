@@ -9,6 +9,7 @@
 - FFA Fehlbanns gefixt
 - Fahrschule Preisfehler angepasst
 - Fahrschule Texte bei Prüfung angepasst
+- Kampfunfähigkeit im FFA entfernt
 
 
 **05.06.2022**
