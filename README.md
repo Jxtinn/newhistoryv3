@@ -8,6 +8,7 @@
 - Helikopter Explosion (Helishop) gefixt
 - FFA Fehlbanns gefixt
 - Fahrschule Preisfehler angepasst
+- Fahrschule Texte bei Prüfung angepasst
 
 
 **05.06.2022**
