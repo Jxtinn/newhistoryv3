@@ -6,6 +6,7 @@
 - Glücksrad Blackscreen gefixt
 - ATM am PDM hinzugefügt
 - Helikopter Explosion (Helishop) gefixt
+- FFA Fehlbanns gefixt
 
 
 **05.06.2022**
