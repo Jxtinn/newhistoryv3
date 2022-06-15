@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**16.06.2022**
+- Accessoires-Shop und Masken-Laden gefixt
+
+
 **15.06.2022**
 - YouTool gefixt
 
