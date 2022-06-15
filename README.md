@@ -2,6 +2,7 @@
 
 **16.06.2022**
 - Accessoires-Shop und Masken-Laden gefixt
+- Kleidungs-Menü (F1) gefixt
 
 
 **15.06.2022**
