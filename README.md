@@ -7,6 +7,7 @@
 - Outfit-Menü in LSMD-Umkleide hinzugefügt
 - Kampfunfähigkeit bleibt nun nach Rejoin erhalten
 - Einreise/Charerstellungs-Punkt angepasst
+- Drogen-System angepasst
 
 
 **15.06.2022**
