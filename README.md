@@ -12,6 +12,7 @@
 - Mercedes S500 4Matic Kurvenlage verändert
 - BMW 745le Kurvenlage verändert
 - By Reflex
+- Bugs mit Kampfunfähigkeit nach Restart/Rejoin gefixt
 
 
 **15.06.2022**
