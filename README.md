@@ -3,6 +3,7 @@
 **16.06.2022**
 - Accessoires-Shop und Masken-Laden gefixt
 - Kleidungs-Menü (F1) gefixt
+- Outfit-Punkt fürs LSPD hinzugefügt
 
 
 **15.06.2022**
