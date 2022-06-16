@@ -6,6 +6,7 @@
 - Outfit-Punkt für das LSPD hinzugefügt
 - Outfit-Menü in LSMD-Umkleide hinzugefügt
 - Kampfunfähigkeit bleibt nun nach Rejoin erhalten
+- Einreise/Charerstellungs-Punkt angepasst
 
 
 **15.06.2022**
