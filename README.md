@@ -8,9 +8,10 @@
 - Kampfunfähigkeit bleibt nun nach Rejoin erhalten
 - Einreise/Charerstellungs-Punkt angepasst
 - Drogen-System angepasst
-- Mercedes S500 4Matic Wheel Spin entfernt beim anfahren
+- Mercedes S500 4Matic Wheel Spin entfernt
 - Mercedes S500 4Matic Kurvenlage verändert
 - BMW 745le Kurvenlage verändert
+
 
 
 **15.06.2022**
