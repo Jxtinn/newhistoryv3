@@ -7,6 +7,7 @@
 - nh_gangutility Client-Error gefixt
 - Claim-System auf aktuellen Shop angepasst
 - Shop Sortiment aktualisiert
+- Uptrade-System im Shop aktiviert
 
 
 **16.06.2022**
