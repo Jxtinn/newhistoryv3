@@ -13,7 +13,6 @@
 - ACLS Truck Render Bug gefixt
 
 
-
 **16.06.2022**
 - Accessoires-Shop und Masken-Laden gefixt
 - Kleidungs-Menü (F1) gefixt
