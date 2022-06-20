@@ -2,6 +2,7 @@
 
 **20.06.2022**
 - Jail Kleidung gefixt
+- PalPay Zahlungen angepasst
 
 
 **16.06.2022**
