@@ -3,6 +3,7 @@
 **20.06.2022**
 - Jail Kleidung gefixt
 - PalPay Zahlungen angepasst
+- F1-Gangmenü gefixt (Nachtrag)
 
 
 **16.06.2022**
