@@ -5,6 +5,7 @@
 - PalPay Zahlungen angepasst
 - F1-Gangmenü gefixt (Nachtrag)
 - nh_gangutility Client-Error gefixt
+- Claim-System auf aktuellen Shop angepasst
 
 
 **16.06.2022**
