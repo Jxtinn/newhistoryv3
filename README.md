@@ -4,6 +4,7 @@
 - Jail Kleidung gefixt
 - PalPay Zahlungen angepasst
 - F1-Gangmenü gefixt (Nachtrag)
+- nh_gangutility Client-Error gefixt
 
 
 **16.06.2022**
