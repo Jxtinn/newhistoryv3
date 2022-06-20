@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**20.06.2022**
+- Jail Kleidung gefixt
+
+
 **16.06.2022**
 - Accessoires-Shop und Masken-Laden gefixt
 - Kleidungs-Menü (F1) gefixt
