@@ -8,6 +8,9 @@
 - Claim-System auf aktuellen Shop angepasst
 - Shop Sortiment aktualisiert
 - Uptrade-System im Shop aktiviert
+- M4 Render Bug gefixt
+- ACLS Tahoe Render Bug gefixt
+- ACLS Truck Render Bug gefixt
 
 
 **16.06.2022**
