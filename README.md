@@ -2,6 +2,7 @@
 
 **21.06.2022**
 - SoA Tor abgeschlossen
+- SoA Map hinzugefügt
 
 
 **20.06.2022**
