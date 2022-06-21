@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**21.06.2022**
+- SoA Tor abgeschlossen
+
+
 **20.06.2022**
 - Jail Kleidung gefixt
 - PalPay Zahlungen angepasst
