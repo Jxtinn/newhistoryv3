@@ -2,6 +2,7 @@
 
 **23.06.2022**
 - Ndrangheta Job hinzugefügt
+- Ndrangheta Job Add-Ons hinzugefügt
 
 
 **21.06.2022**
