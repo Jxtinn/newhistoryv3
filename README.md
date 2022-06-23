@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**23.06.2022**
+- Ndrangheta Job hinzugefügt
+
+
 **21.06.2022**
 - SoA Tor abgeschlossen
 - SoA Map hinzugefügt
