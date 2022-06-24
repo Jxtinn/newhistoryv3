@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**24.06.2022**
+- Trucker Abladepunkt am FIB Tower entfernt
+
+
 **23.06.2022**
 - Ndrangheta Job hinzugefügt
 - Ndrangheta Job Add-Ons hinzugefügt
