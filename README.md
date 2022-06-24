@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**25.06.2022**
+- Trucker Abladepunkt am FIB Tower hinzugefügt
+
+
 **24.06.2022**
 - Trucker Abladepunkt am FIB Tower entfernt
 
