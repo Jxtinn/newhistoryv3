@@ -6,6 +6,7 @@
 - Ndrangheta autobanns gefixt
 - Trucker-Job angepasst
 - Alte Drogen-Ankäufer entfernt
+- Cayo Perico entfernt
 
 
 **24.06.2022**
