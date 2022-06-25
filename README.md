@@ -4,6 +4,7 @@
 - Trucker Abladepunkt am FIB Tower hinzugefügt
 - Doorlock am FIB Tower entfernt
 - Ndrangheta autobanns gefixt
+- Trucker-Job angepasst
 
 
 **24.06.2022**
