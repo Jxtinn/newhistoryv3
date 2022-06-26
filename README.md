@@ -2,6 +2,7 @@
 
 **26.06.2022**
 - Kleidungspack angepasst
+- Notfallmedic gefixt
 
 
 **25.06.2022**
