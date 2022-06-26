@@ -3,6 +3,7 @@
 **26.06.2022**
 - Kleidungspack angepasst
 - Notfallmedic gefixt
+- Drogen-Wachstumsrate von 10% auf 20% angehoben
 
 
 **25.06.2022**
