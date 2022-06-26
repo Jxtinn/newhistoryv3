@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**26.06.2022**
+- Kleidungspack angepasst
+
+
 **25.06.2022**
 - Trucker Abladepunkt am FIB Tower hinzugefügt
 - Doorlock am FIB Tower entfernt
