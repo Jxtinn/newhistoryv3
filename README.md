@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**29.06.2022**
+- Bratwa Job hinzugefügt
+
+
 **26.06.2022**
 - Kleidungspack angepasst
 - Notfallmedic gefixt
