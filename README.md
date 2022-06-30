@@ -4,6 +4,7 @@
 - Bratwa Fraktions App hinzugefügt
 - Bratwa Fraktions Lager hinzugefügt
 - Jeton Gewicht angepasst
+- Bratwa Map angepasst
 
 
 **29.06.2022**
