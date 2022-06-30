@@ -1,8 +1,13 @@
 # NewHistory V3 Dev-Logs
 
+**30.06.2022**
+- Bratwa Fraktions App hinzugefügt
+
+
 **29.06.2022**
 - Bratwa Job hinzugefügt
 - Bratwa Map hinzugefügt
+
 
 **26.06.2022**
 - Kleidungspack angepasst
