@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**03.07.2022**
+- Flugzeug Shop temporär entfernt
+
+
 **30.06.2022**
 - Bratwa Fraktions App hinzugefügt
 - Bratwa Fraktions Lager hinzugefügt
