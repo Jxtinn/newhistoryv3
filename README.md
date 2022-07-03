@@ -4,6 +4,7 @@
 - Flugzeug Shop temporär entfernt
 - Holz-Route hinzugefügt
 - Weed-Route hinzugefügt
+- Server auf Pure-Mode Level 1 gesetzt
 
 
 **30.06.2022**
