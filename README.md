@@ -7,6 +7,7 @@
 - Server auf Pure-Mode Level 1 gesetzt
 - Blitzer auf Rechnungen umgestellt
 - Waffenpreise angepasst
+- Schwarzmarkt temporär entfernt
 
 
 **30.06.2022**
