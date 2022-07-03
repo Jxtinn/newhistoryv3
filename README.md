@@ -8,6 +8,7 @@
 - Blitzer auf Rechnungen umgestellt
 - Waffenpreise angepasst
 - Schwarzmarkt temporär entfernt
+- Alle illegalen Routen auf Schwarzgeld umgestellt
 
 
 **30.06.2022**
