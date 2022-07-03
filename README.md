@@ -9,6 +9,7 @@
 - Waffenpreise angepasst
 - Schwarzmarkt temporär entfernt
 - Alle illegalen Routen auf Schwarzgeld umgestellt
+- Respawn-Point an aktuelles MD gesetzt
 
 
 **30.06.2022**
