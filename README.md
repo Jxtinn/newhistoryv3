@@ -10,6 +10,7 @@
 - Schwarzmarkt temporär entfernt
 - Alle illegalen Routen auf Schwarzgeld umgestellt
 - Respawn-Point an aktuelles MD gesetzt
+- Casino Geldwäsche angepasst
 
 
 **30.06.2022**
