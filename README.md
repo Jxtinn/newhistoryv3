@@ -3,6 +3,7 @@
 **03.07.2022**
 - Flugzeug Shop temporär entfernt
 - Holz-Route hinzugefügt
+- Weed-Route hinzugefügt
 
 
 **30.06.2022**
