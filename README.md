@@ -11,6 +11,7 @@
 - Alle illegalen Routen auf Schwarzgeld umgestellt
 - Respawn-Point an aktuelles MD gesetzt
 - Casino Geldwäsche angepasst
+- Casino Dach-Teleporter hinzugefügt
 
 
 **30.06.2022**
