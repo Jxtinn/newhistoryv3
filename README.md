@@ -5,6 +5,7 @@
 - Holz-Route hinzugefügt
 - Weed-Route hinzugefügt
 - Server auf Pure-Mode Level 1 gesetzt
+- Blitzer auf Rechnungen umgestellt
 
 
 **30.06.2022**
