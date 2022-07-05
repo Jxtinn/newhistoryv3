@@ -2,6 +2,7 @@
 
 **06.07.2022**
 - Purple Haze Weed Verkaufspreise angepasst
+- Blitzer temporär deaktiviert
 
 
 **03.07.2022**
