@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**06.07.2022**
+- Purple Haze Weed Verkaufspreise angepasst
+
+
 **03.07.2022**
 - Flugzeug Shop temporär entfernt
 - Holz-Route hinzugefügt
