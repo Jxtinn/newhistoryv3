@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**09.07.2022**
+- Waffenroute wieder hinzugefügt
+
+
 **06.07.2022**
 - Purple Haze Weed Verkaufspreise angepasst
 - Blitzer temporär deaktiviert
