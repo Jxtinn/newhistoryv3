@@ -2,6 +2,7 @@
 
 **09.07.2022**
 - Waffenroute wieder hinzugefügt
+- ATM Raub Cop Minimum auf 4 gesetzt
 
 
 **06.07.2022**
