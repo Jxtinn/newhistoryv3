@@ -3,6 +3,7 @@
 **09.07.2022**
 - Waffenroute wieder hinzugefügt
 - ATM Raub Cop Minimum auf 4 gesetzt
+- Heal-Effekt bei Lemon Haze Weed wieder hinzugefügt
 
 
 **06.07.2022**
