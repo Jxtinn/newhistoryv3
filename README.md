@@ -5,6 +5,7 @@
 - ATM Raub Cop Minimum auf 4 gesetzt
 - Heal-Effekt bei Lemon Haze Weed wieder hinzugefügt
 - Sniper vorerst auf die Blacklist gesetzt
+- Gehalt von legalen Fraktionen erhöht
 
 
 **06.07.2022**
