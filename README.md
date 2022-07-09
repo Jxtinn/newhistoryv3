@@ -7,6 +7,7 @@
 - Sniper vorerst auf die Blacklist gesetzt
 - Gehalt von legalen Fraktionen erhöht
 - Organisazija Job hinzugefügt
+- Organisazija Map hinzugefügt
 
 
 **06.07.2022**
