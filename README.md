@@ -6,6 +6,7 @@
 - Heal-Effekt bei Lemon Haze Weed wieder hinzugefügt
 - Sniper vorerst auf die Blacklist gesetzt
 - Gehalt von legalen Fraktionen erhöht
+- Organisazija Job hinzugefügt
 
 
 **06.07.2022**
