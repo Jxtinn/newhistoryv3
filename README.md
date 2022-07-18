@@ -1,5 +1,9 @@
 # NewHistory V3 Dev-Logs
 
+**18.07.2022**
+- Akku-Funktion vom Handy entfernt
+
+
 **09.07.2022**
 - Waffenroute wieder hinzugefügt
 - ATM Raub Cop Minimum auf 4 gesetzt
