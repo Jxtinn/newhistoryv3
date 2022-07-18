@@ -2,6 +2,7 @@
 
 **18.07.2022**
 - Akku-Funktion vom Handy entfernt
+- Loadingscreen angepasst
 
 
 **09.07.2022**
